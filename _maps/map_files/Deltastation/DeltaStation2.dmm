@@ -892,7 +892,7 @@
 	network = list("ss13","prison")
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "adx" = (
@@ -2148,7 +2148,7 @@
 "alY" = (
 /obj/structure/closet/firecloset,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/maintenance/port/fore)
 "amg" = (
@@ -4570,7 +4570,7 @@
 "aGH" = (
 /obj/machinery/light/directional/west,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "aGL" = (
@@ -6978,7 +6978,7 @@
 /area/security/prison)
 "bbr" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "bbs" = (
@@ -17806,7 +17806,7 @@
 /obj/structure/closet,
 /obj/effect/spawner/lootdrop/maintenance/two,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/maintenance/starboard)
 "coE" = (
@@ -17841,7 +17841,7 @@
 /area/maintenance/starboard)
 "coJ" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/maintenance/starboard)
 "coK" = (
@@ -19894,7 +19894,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/girder,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/maintenance/port)
 "cHk" = (
@@ -22293,7 +22293,7 @@
 	},
 /obj/machinery/newscaster/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/medical/medbay/central)
 "cUT" = (
@@ -64020,7 +64020,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/shovel/spade,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "lxk" = (
@@ -64619,7 +64619,7 @@
 	pixel_x = -32
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "lGO" = (
@@ -72340,7 +72340,7 @@
 	},
 /obj/machinery/light/directional/west,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "nFS" = (
@@ -73759,7 +73759,7 @@
 	pixel_x = 32
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "nYd" = (
@@ -88222,7 +88222,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/directional/east,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/security/prison)
 "rJq" = (

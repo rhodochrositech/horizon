@@ -1121,7 +1121,7 @@
 "cA" = (
 /turf/open/floor/plating{
 	heat_capacity = 1e+006;
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/awaymission/moonoutpost19/syndicate)
 "cB" = (
@@ -3619,7 +3619,7 @@
 /obj/structure/cable,
 /turf/open/floor/plating{
 	heat_capacity = 1e+006;
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/awaymission/moonoutpost19/research)
 "hX" = (

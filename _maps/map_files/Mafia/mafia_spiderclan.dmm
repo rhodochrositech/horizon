@@ -22,7 +22,7 @@
 /area/mafia)
 "f" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/mafia)
 "g" = (
@@ -96,7 +96,7 @@
 "v" = (
 /obj/mafia_game_board,
 /turf/open/floor/plating{
-	icon_state = "panelscorched"
+	icon_state = "panelscorched1"
 	},
 /area/mafia)
 "B" = (
