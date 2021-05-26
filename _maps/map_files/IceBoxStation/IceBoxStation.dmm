@@ -4608,7 +4608,7 @@
 /area/maintenance/starboard/fore)
 "aty" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "atz" = (
@@ -20865,7 +20865,7 @@
 "cMn" = (
 /obj/structure/grille,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cMu" = (
@@ -21813,7 +21813,7 @@
 "dnC" = (
 /obj/effect/decal/cleanable/blood/gibs/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "dnS" = (
@@ -23955,7 +23955,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/light/small/broken/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "eHN" = (
@@ -26297,7 +26297,7 @@
 	dir = 5
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "gdd" = (
@@ -26897,7 +26897,7 @@
 /area/command/heads_quarters/rd)
 "guJ" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "guR" = (
@@ -27497,7 +27497,7 @@
 /obj/structure/closet,
 /obj/effect/spawner/lootdrop/maintenance/two,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "gNt" = (
@@ -27885,7 +27885,7 @@
 "hbc" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "hbV" = (
@@ -35634,7 +35634,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "lBr" = (
@@ -36345,7 +36345,7 @@
 	},
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "lUB" = (
@@ -37450,7 +37450,7 @@
 "mAW" = (
 /obj/structure/closet/firecloset,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "mBa" = (
@@ -40064,7 +40064,7 @@
 "nWO" = (
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "nWQ" = (
@@ -43812,7 +43812,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "qds" = (
@@ -46827,7 +46827,7 @@
 "rSa" = (
 /obj/item/storage/box,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "rSg" = (
@@ -47884,7 +47884,7 @@
 /area/science/xenobiology)
 "swV" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "sxn" = (
@@ -50133,7 +50133,7 @@
 	dir = 9
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "tKv" = (
@@ -51558,7 +51558,7 @@
 "uvS" = (
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "uwc" = (
@@ -52524,7 +52524,7 @@
 "uZA" = (
 /obj/effect/landmark/blobstart,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "uZP" = (
@@ -52642,7 +52642,7 @@
 	dir = 5
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "vdO" = (
@@ -53102,12 +53102,12 @@
 "vvm" = (
 /obj/structure/chair/stool,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "vvH" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "vvZ" = (
@@ -54106,7 +54106,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "vVy" = (
@@ -55201,7 +55201,7 @@
 	pixel_x = -32
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "wDJ" = (
@@ -55329,7 +55329,7 @@
 "wIi" = (
 /obj/effect/spawner/lootdrop/gross_decal_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "wIk" = (
@@ -55990,7 +55990,7 @@
 "xcd" = (
 /obj/structure/closet/firecloset,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "xct" = (

@@ -372,7 +372,7 @@
 	},
 /obj/structure/grille/broken,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/shuttle/escape)
 "lS" = (
@@ -1086,7 +1086,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/shuttle/escape)
 "QO" = (

@@ -84,7 +84,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/blobstart,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aat" = (
@@ -1428,7 +1428,7 @@
 /obj/effect/decal/cleanable/cobweb,
 /obj/item/melee/moonlight_greatsword,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "aeP" = (
@@ -1525,7 +1525,7 @@
 	},
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "afc" = (
@@ -1805,7 +1805,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "afM" = (
@@ -2197,7 +2197,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "agW" = (
@@ -2386,7 +2386,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "ahx" = (
@@ -2430,7 +2430,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "ahF" = (
@@ -2657,7 +2657,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "aio" = (
@@ -2693,7 +2693,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "ait" = (
@@ -2762,7 +2762,7 @@
 /obj/effect/spawner/lootdrop/costume,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "aiM" = (
@@ -3062,7 +3062,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "ajx" = (
@@ -3165,7 +3165,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "ajN" = (
@@ -3264,7 +3264,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "ake" = (
@@ -3309,7 +3309,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "akh" = (
@@ -3402,7 +3402,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "akt" = (
@@ -3428,7 +3428,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "akw" = (
@@ -3479,7 +3479,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "akA" = (
@@ -3524,7 +3524,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "akF" = (
@@ -3649,7 +3649,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "akY" = (
@@ -3692,7 +3692,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "alc" = (
@@ -3739,7 +3739,7 @@
 /obj/effect/landmark/event_spawn,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "all" = (
@@ -3779,7 +3779,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "alp" = (
@@ -4011,7 +4011,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "alI" = (
@@ -4208,7 +4208,7 @@
 /obj/effect/decal/cleanable/blood/old,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aml" = (
@@ -4287,7 +4287,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "amu" = (
@@ -4300,7 +4300,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "amv" = (
@@ -4333,7 +4333,7 @@
 "amx" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "amy" = (
@@ -4360,7 +4360,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "amE" = (
@@ -4372,7 +4372,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "amF" = (
@@ -4385,7 +4385,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "amG" = (
@@ -4426,7 +4426,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "amL" = (
@@ -4436,7 +4436,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "amN" = (
@@ -4548,7 +4548,7 @@
 /obj/effect/landmark/event_spawn,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "ang" = (
@@ -4803,7 +4803,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "anQ" = (
@@ -4874,7 +4874,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "anW" = (
@@ -4971,7 +4971,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aoj" = (
@@ -5103,7 +5103,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "aoN" = (
@@ -5387,7 +5387,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/port/fore)
 "apC" = (
@@ -5397,7 +5397,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "apD" = (
@@ -5574,7 +5574,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aqb" = (
@@ -5619,7 +5619,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aqh" = (
@@ -6183,7 +6183,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/fore)
 "arT" = (
@@ -6219,7 +6219,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/fore)
 "asb" = (
@@ -6339,7 +6339,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "ass" = (
@@ -6539,7 +6539,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "atc" = (
@@ -6638,7 +6638,7 @@
 /obj/effect/decal/cleanable/cobweb,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "atx" = (
@@ -6669,7 +6669,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "atz" = (
@@ -6892,7 +6892,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "aue" = (
@@ -6997,7 +6997,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "auo" = (
@@ -7006,7 +7006,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/east,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "auq" = (
@@ -7038,7 +7038,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "auu" = (
@@ -7255,7 +7255,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "avc" = (
@@ -7286,7 +7286,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "avk" = (
@@ -7619,7 +7619,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "awd" = (
@@ -7709,7 +7709,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "awm" = (
@@ -7726,7 +7726,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "awo" = (
@@ -7800,7 +7800,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "awB" = (
@@ -7813,7 +7813,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "awG" = (
@@ -7853,7 +7853,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "awQ" = (
@@ -7874,7 +7874,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "awS" = (
@@ -8007,7 +8007,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "axz" = (
@@ -8141,7 +8141,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "ayc" = (
@@ -8255,7 +8255,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "ayt" = (
@@ -8297,7 +8297,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "ayA" = (
@@ -8461,7 +8461,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aze" = (
@@ -8819,7 +8819,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aAB" = (
@@ -8876,7 +8876,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "aAK" = (
@@ -9183,7 +9183,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "aCn" = (
@@ -9204,7 +9204,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aCu" = (
@@ -9399,7 +9399,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aDf" = (
@@ -9413,7 +9413,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aDj" = (
@@ -9463,7 +9463,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aDF" = (
@@ -9742,7 +9742,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "aEy" = (
@@ -9887,7 +9887,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aFa" = (
@@ -9901,7 +9901,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "aFg" = (
@@ -10384,7 +10384,7 @@
 /obj/structure/girder,
 /obj/structure/grille/broken,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "aHY" = (
@@ -10782,7 +10782,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "aKn" = (
@@ -11736,7 +11736,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "aNF" = (
@@ -13649,7 +13649,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "aRF" = (
@@ -13807,7 +13807,7 @@
 "aRQ" = (
 /obj/structure/girder,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "aRR" = (
@@ -14696,7 +14696,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "aUg" = (
@@ -14722,7 +14722,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "aUk" = (
@@ -16084,7 +16084,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "aYN" = (
@@ -16203,7 +16203,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "aZa" = (
@@ -16246,7 +16246,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "aZe" = (
@@ -16952,7 +16952,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "baC" = (
@@ -17081,7 +17081,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "baP" = (
@@ -17929,7 +17929,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bdl" = (
@@ -18962,7 +18962,7 @@
 /obj/structure/grille/broken,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bfN" = (
@@ -19039,7 +19039,7 @@
 	dir = 5
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bfY" = (
@@ -19111,7 +19111,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bgj" = (
@@ -19584,7 +19584,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bhu" = (
@@ -19747,7 +19747,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bia" = (
@@ -20241,7 +20241,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "blq" = (
@@ -20430,7 +20430,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bmz" = (
@@ -20768,7 +20768,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "boX" = (
@@ -20834,7 +20834,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/science/mixing)
 "bpk" = (
@@ -20947,7 +20947,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bpB" = (
@@ -20976,7 +20976,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bpF" = (
@@ -21277,7 +21277,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bqX" = (
@@ -21327,7 +21327,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "brg" = (
@@ -21365,7 +21365,7 @@
 	name = "Lair Privacy Toggle"
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "brJ" = (
@@ -21667,7 +21667,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "btV" = (
@@ -21928,7 +21928,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bvV" = (
@@ -21952,7 +21952,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bvZ" = (
@@ -22053,7 +22053,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bwO" = (
@@ -22123,7 +22123,7 @@
 "bxq" = (
 /obj/structure/girder,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bxs" = (
@@ -22273,7 +22273,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "byu" = (
@@ -22571,7 +22571,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bzn" = (
@@ -22726,7 +22726,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bzS" = (
@@ -23012,7 +23012,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bAU" = (
@@ -23248,7 +23248,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bBW" = (
@@ -23447,7 +23447,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bDn" = (
@@ -23698,7 +23698,7 @@
 /obj/structure/closet/firecloset,
 /obj/effect/turf_decal/bot,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bEK" = (
@@ -23782,7 +23782,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bEY" = (
@@ -24214,7 +24214,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "bGL" = (
@@ -24282,7 +24282,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bGU" = (
@@ -25174,7 +25174,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bMl" = (
@@ -25240,7 +25240,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bMy" = (
@@ -25304,7 +25304,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/primary/aft)
 "bMI" = (
@@ -25397,7 +25397,7 @@
 "bMR" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bMW" = (
@@ -25443,7 +25443,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/primary/aft)
 "bNe" = (
@@ -25465,7 +25465,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "bNh" = (
@@ -25573,7 +25573,7 @@
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bNA" = (
@@ -25641,7 +25641,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bOc" = (
@@ -26126,7 +26126,7 @@
 	dir = 5
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bPD" = (
@@ -26159,7 +26159,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bPI" = (
@@ -26234,7 +26234,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bPP" = (
@@ -26846,7 +26846,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bRk" = (
@@ -26970,7 +26970,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bRv" = (
@@ -27122,7 +27122,7 @@
 "bRT" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "bRX" = (
@@ -27364,7 +27364,7 @@
 /obj/structure/chair/stool/bar,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bSD" = (
@@ -27388,7 +27388,7 @@
 /obj/effect/landmark/event_spawn,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bSH" = (
@@ -27434,7 +27434,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bSO" = (
@@ -27445,7 +27445,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bSP" = (
@@ -27616,7 +27616,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "bTx" = (
@@ -27743,7 +27743,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bTQ" = (
@@ -27783,7 +27783,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/secondary/entry)
 "bTT" = (
@@ -28111,7 +28111,7 @@
 /obj/structure/closet/crate/bin,
 /obj/effect/spawner/lootdrop/maintenance/two,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bUU" = (
@@ -28439,7 +28439,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "bVS" = (
@@ -28567,7 +28567,7 @@
 	},
 /obj/effect/decal/cleanable/vomit/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bWm" = (
@@ -29362,7 +29362,7 @@
 	},
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "bXS" = (
@@ -29588,7 +29588,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYt" = (
@@ -29626,7 +29626,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYw" = (
@@ -29636,7 +29636,7 @@
 /obj/effect/decal/cleanable/oil/slippery,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "bYx" = (
@@ -29666,7 +29666,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYA" = (
@@ -29695,7 +29695,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYF" = (
@@ -29740,7 +29740,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYL" = (
@@ -29798,7 +29798,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "bYS" = (
@@ -30630,7 +30630,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "caO" = (
@@ -30706,7 +30706,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cbb" = (
@@ -30731,7 +30731,7 @@
 /obj/structure/grille/broken,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cbd" = (
@@ -30807,7 +30807,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cbk" = (
@@ -31050,7 +31050,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/secondary/entry)
 "cbM" = (
@@ -31133,7 +31133,7 @@
 /obj/effect/decal/cleanable/vomit/old,
 /mob/living/simple_animal/hostile/retaliate/goose/vomit,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cbW" = (
@@ -31208,7 +31208,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "ccn" = (
@@ -31779,7 +31779,7 @@
 /obj/effect/decal/cleanable/vomit/old,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cel" = (
@@ -31998,7 +31998,7 @@
 /obj/effect/decal/cleanable/blood/gibs/old,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "ceY" = (
@@ -33330,7 +33330,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "ciY" = (
@@ -33461,7 +33461,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cjw" = (
@@ -33501,7 +33501,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cjD" = (
@@ -33823,7 +33823,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "ckG" = (
@@ -33985,7 +33985,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "clb" = (
@@ -34029,7 +34029,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "clk" = (
@@ -34174,7 +34174,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "clH" = (
@@ -34287,7 +34287,7 @@
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cmg" = (
@@ -34616,7 +34616,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cmR" = (
@@ -34667,7 +34667,7 @@
 	dir = 5
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cmZ" = (
@@ -34680,7 +34680,7 @@
 	},
 /obj/machinery/power/apc/auto_name/east,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/secondary/entry)
 "cna" = (
@@ -34696,7 +34696,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cnd" = (
@@ -34922,7 +34922,7 @@
 "cnL" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "cnM" = (
@@ -35253,7 +35253,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cpu" = (
@@ -35438,7 +35438,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "cpY" = (
@@ -35666,7 +35666,7 @@
 /obj/effect/turf_decal/stripes/corner,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cqF" = (
@@ -35689,7 +35689,7 @@
 /obj/effect/turf_decal/stripes/corner,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cqN" = (
@@ -35770,7 +35770,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "crd" = (
@@ -36066,7 +36066,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "crX" = (
@@ -36164,7 +36164,7 @@
 /obj/structure/closet/crate,
 /obj/effect/spawner/lootdrop/space/fancytech,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "csi" = (
@@ -36174,7 +36174,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "csk" = (
@@ -36258,14 +36258,14 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal)
 "csB" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "csC" = (
@@ -36715,7 +36715,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cux" = (
@@ -36892,7 +36892,7 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /obj/effect/landmark/xeno_spawn,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cuU" = (
@@ -36970,7 +36970,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cvd" = (
@@ -37015,7 +37015,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cvp" = (
@@ -37367,7 +37367,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cwP" = (
@@ -37404,7 +37404,7 @@
 /obj/structure/girder,
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "cwT" = (
@@ -37509,7 +37509,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cxj" = (
@@ -37541,7 +37541,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/port/aft)
 "cxl" = (
@@ -37601,7 +37601,7 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "cxr" = (
@@ -37661,7 +37661,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "cxz" = (
@@ -37769,7 +37769,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "cxP" = (
@@ -37997,7 +37997,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cyN" = (
@@ -38357,7 +38357,7 @@
 /obj/effect/turf_decal/stripes/corner,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "czJ" = (
@@ -38506,7 +38506,7 @@
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cAH" = (
@@ -38579,7 +38579,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/grille,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cBn" = (
@@ -38851,7 +38851,7 @@
 "cCU" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cCV" = (
@@ -38896,7 +38896,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cDp" = (
@@ -38928,7 +38928,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cDx" = (
@@ -38952,7 +38952,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/grille/broken,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cDF" = (
@@ -39249,7 +39249,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/shard,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cEV" = (
@@ -39261,7 +39261,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cEX" = (
@@ -39305,7 +39305,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cFi" = (
@@ -39373,14 +39373,14 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "cFy" = (
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cFB" = (
@@ -39463,7 +39463,7 @@
 /obj/structure/table,
 /obj/item/book/manual/wiki/engineering_hacking,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "cFT" = (
@@ -39471,14 +39471,14 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/grille/broken,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cFU" = (
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/effect/landmark/event_spawn,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "cFX" = (
@@ -39509,7 +39509,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cGd" = (
@@ -39614,7 +39614,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/aft)
 "cGx" = (
@@ -39749,7 +39749,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/execution/education)
 "cGT" = (
@@ -39825,7 +39825,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal)
 "cHo" = (
@@ -40328,7 +40328,7 @@
 "cJQ" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cJR" = (
@@ -40462,7 +40462,7 @@
 	pixel_y = 24
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "cKy" = (
@@ -40575,7 +40575,7 @@
 "cLg" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cLh" = (
@@ -40843,7 +40843,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cMJ" = (
@@ -40870,7 +40870,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cNd" = (
@@ -40880,7 +40880,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cNf" = (
@@ -40937,7 +40937,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cNw" = (
@@ -41091,7 +41091,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "cOo" = (
@@ -41426,7 +41426,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/execution/education)
 "cTG" = (
@@ -41478,7 +41478,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "cVr" = (
@@ -42466,7 +42466,7 @@
 	req_access_txt = "12"
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal)
 "duH" = (
@@ -43034,7 +43034,7 @@
 "dHC" = (
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "dHK" = (
@@ -44028,7 +44028,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/stripes/corner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "ejz" = (
@@ -44494,7 +44494,7 @@
 	},
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "etf" = (
@@ -44708,7 +44708,7 @@
 "eys" = (
 /obj/machinery/light/small/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/prison)
 "eyz" = (
@@ -45219,7 +45219,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/blobstart,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "eJD" = (
@@ -45244,7 +45244,7 @@
 /obj/machinery/power/apc/auto_name/east,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "eJQ" = (
@@ -45473,7 +45473,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/stripes/end,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/main)
 "eNB" = (
@@ -45992,7 +45992,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/port/fore)
 "eWJ" = (
@@ -46193,7 +46193,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "fdE" = (
@@ -46448,7 +46448,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/loot_site_spawner,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "fiH" = (
@@ -47163,7 +47163,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/port/fore)
 "fAW" = (
@@ -47577,7 +47577,7 @@
 /obj/item/hand_labeler,
 /obj/machinery/light/small/directional/south,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "fHh" = (
@@ -48837,7 +48837,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "gmb" = (
@@ -49204,7 +49204,7 @@
 /obj/effect/turf_decal/box,
 /obj/structure/mirror/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "guo" = (
@@ -49326,7 +49326,7 @@
 /obj/effect/decal/cleanable/blood/old,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "gws" = (
@@ -49527,7 +49527,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/prison)
 "gCp" = (
@@ -50454,7 +50454,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/port/aft)
 "hbn" = (
@@ -51737,7 +51737,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/supermatter/room)
 "hLx" = (
@@ -52575,7 +52575,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "ifh" = (
@@ -52879,7 +52879,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/fore)
 "ilG" = (
@@ -52940,7 +52940,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "imD" = (
@@ -53890,7 +53890,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/aft)
 "iIT" = (
@@ -53922,7 +53922,7 @@
 	},
 /obj/machinery/light/small/directional/west,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/execution/education)
 "iKi" = (
@@ -54355,7 +54355,7 @@
 /obj/machinery/light/small/directional/west,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "iUd" = (
@@ -55596,7 +55596,7 @@
 /obj/structure/cable,
 /obj/structure/rack,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "jxk" = (
@@ -55860,7 +55860,7 @@
 "jCZ" = (
 /obj/machinery/light/small/directional/south,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "jDu" = (
@@ -56124,7 +56124,7 @@
 	},
 /obj/machinery/light/built/directional/north,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "jLI" = (
@@ -56878,7 +56878,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/fore)
 "jYO" = (
@@ -56898,7 +56898,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/supermatter/room)
 "jZl" = (
@@ -56990,7 +56990,7 @@
 /obj/machinery/light/small/directional/north,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "kbZ" = (
@@ -57619,7 +57619,7 @@
 /area/cargo/office)
 "kpf" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "kpg" = (
@@ -58047,7 +58047,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "kxY" = (
@@ -58257,7 +58257,7 @@
 	network = list("ss13","engine")
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "kAC" = (
@@ -59086,7 +59086,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "kQU" = (
@@ -59261,7 +59261,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "kUY" = (
@@ -59688,7 +59688,7 @@
 /obj/structure/cable,
 /obj/machinery/power/shieldwallgen/xenobiologyaccess,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/science/xenobiology)
 "lgH" = (
@@ -59906,7 +59906,7 @@
 /obj/effect/landmark/xeno_spawn,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/hallway/secondary/entry)
 "llz" = (
@@ -60136,7 +60136,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "lqz" = (
@@ -60345,7 +60345,7 @@
 /obj/item/stack/sheet/iron/fifty,
 /obj/effect/spawner/lootdrop/maintenance/two,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "lum" = (
@@ -61379,7 +61379,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "lSB" = (
@@ -61991,7 +61991,7 @@
 /obj/structure/extinguisher_cabinet/directional/west,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/science/xenobiology)
 "mfV" = (
@@ -62561,7 +62561,7 @@
 /obj/machinery/light/small/directional/west,
 /obj/item/crowbar/red,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "mtA" = (
@@ -62619,7 +62619,7 @@
 /obj/item/radio/intercom/directional/north,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/fore)
 "muH" = (
@@ -62908,7 +62908,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/prison)
 "mBn" = (
@@ -64188,7 +64188,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/shard,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "ncR" = (
@@ -64387,7 +64387,7 @@
 "nju" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "njJ" = (
@@ -64930,7 +64930,7 @@
 /obj/item/reagent_containers/glass/bucket,
 /obj/item/mop,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal)
 "nzm" = (
@@ -66295,7 +66295,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/supermatter/room)
 "oeA" = (
@@ -67872,7 +67872,7 @@
 	},
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "oLT" = (
@@ -67959,7 +67959,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/supermatter/room)
 "oNT" = (
@@ -68223,7 +68223,7 @@
 	specialfunctions = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "oUy" = (
@@ -68313,7 +68313,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "oYg" = (
@@ -68862,7 +68862,7 @@
 /obj/machinery/light/directional/north,
 /obj/structure/cable/layer3,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/ai_monitored/command/storage/satellite)
 "piJ" = (
@@ -69349,7 +69349,7 @@
 /obj/effect/decal/cleanable/ash,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "prz" = (
@@ -69380,7 +69380,7 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "prO" = (
@@ -69827,7 +69827,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/command/bridge)
 "pCo" = (
@@ -70636,7 +70636,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "pTm" = (
@@ -70672,7 +70672,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "pUD" = (
@@ -70696,7 +70696,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "pUN" = (
@@ -71552,7 +71552,7 @@
 /obj/machinery/airalarm/directional/west,
 /obj/machinery/atmospherics/components/binary/pump/on/layer4,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "qqe" = (
@@ -72244,7 +72244,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "qFx" = (
@@ -72782,7 +72782,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/south,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/solars/starboard/aft)
 "qQH" = (
@@ -73134,7 +73134,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "rbu" = (
@@ -73155,7 +73155,7 @@
 /obj/structure/cable,
 /obj/machinery/space_heater,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "rcg" = (
@@ -74575,7 +74575,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/dark/visible,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "rFV" = (
@@ -74626,7 +74626,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "rHZ" = (
@@ -75963,7 +75963,7 @@
 /area/commons/locker)
 "sqU" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/security/prison)
 "srN" = (
@@ -76207,7 +76207,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard)
 "swx" = (
@@ -76677,7 +76677,7 @@
 /obj/structure/extinguisher_cabinet/directional/west,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/fore)
 "sGP" = (
@@ -78400,7 +78400,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "tyu" = (
@@ -78442,7 +78442,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "tzf" = (
@@ -78607,7 +78607,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "tCl" = (
@@ -80202,7 +80202,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "ugS" = (
@@ -80917,7 +80917,7 @@
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "uuQ" = (
@@ -81571,7 +81571,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/engineering/main)
 "uKN" = (
@@ -82094,7 +82094,7 @@
 	pixel_y = -3
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/starboard/aft)
 "uZT" = (
@@ -82992,7 +82992,7 @@
 "vqb" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "vqR" = (
@@ -84522,7 +84522,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "vYa" = (
@@ -84802,7 +84802,7 @@
 "wgQ" = (
 /obj/effect/decal/cleanable/ash,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/disposal/incinerator)
 "whc" = (
@@ -85144,7 +85144,7 @@
 /obj/structure/cable,
 /obj/effect/spawner/lootdrop/glowstick,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
 "wog" = (
@@ -85870,7 +85870,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port)
 "wGh" = (
@@ -86866,7 +86866,7 @@
 	dir = 10
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/port/aft)
 "xbO" = (

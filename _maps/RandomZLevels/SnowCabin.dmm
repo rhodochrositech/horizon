@@ -198,7 +198,7 @@
 /obj/effect/baseturf_helper/asteroid/snow,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "aF" = (
@@ -250,7 +250,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "aN" = (
@@ -285,7 +285,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "aR" = (
@@ -1037,7 +1037,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "dv" = (
@@ -1052,7 +1052,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "dw" = (
@@ -1248,7 +1248,7 @@
 "ec" = (
 /obj/machinery/light/directional/south,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "ed" = (
@@ -2754,7 +2754,7 @@
 /obj/item/storage/toolbox/mechanical,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/awaymission/cabin)
 "hx" = (

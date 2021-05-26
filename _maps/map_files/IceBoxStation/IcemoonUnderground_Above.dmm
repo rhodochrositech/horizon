@@ -2,7 +2,7 @@
 "ab" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "ah" = (
@@ -5055,7 +5055,7 @@
 /area/science/xenobiology)
 "MD" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "MG" = (
@@ -5517,7 +5517,7 @@
 /area/mine/laborcamp)
 "QD" = (
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/fore)
 "QL" = (
@@ -6143,7 +6143,7 @@
 	pixel_x = -32
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/maintenance/aft)
 "VX" = (

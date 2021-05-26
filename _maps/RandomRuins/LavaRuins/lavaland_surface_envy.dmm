@@ -22,7 +22,7 @@
 	icon_state = "mirror_broke"
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/ruin/unpowered)
 "g" = (

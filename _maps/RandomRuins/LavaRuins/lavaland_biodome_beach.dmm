@@ -781,7 +781,7 @@
 /obj/machinery/light/small/directional/east,
 /obj/machinery/atmospherics/components/unary/vent_pump/on,
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/ruin/powered/beach)
 "yB" = (
@@ -1378,7 +1378,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating{
-	icon_state = "panelscorched1"
+	icon_state = "panelscorched"
 	},
 /area/ruin/powered/beach)
 "Vf" = (
