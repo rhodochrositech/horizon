@@ -201,7 +201,6 @@
 	name = "Cornrow Bun"
 	icon_state = "hair_cornrow-bun"
 
-
 /datum/sprite_accessory/hair/cornrowdualtail
 	name = "Cornrow Tail"
 	icon_state = "hair_cornrow-tail"
@@ -290,10 +289,11 @@
 	name = "Flair"
 	icon_state = "hair_flair"
 
-/datum/sprite_accessory/hair/sergeant
+/datum/sprite_accessory/hair/flattop
 	name = "Flat Top / Sergeant"
-	icon_state = "hair_sergeant"
-/datum/sprite_accessory/hair/bigflattop
+	icon_state = "hair_flattop"
+	
+/datum/sprite_accessory/hair/flattop_big
 	name = "Flat Top (Big)"
 	icon_state = "hair_flattop-big"
 
