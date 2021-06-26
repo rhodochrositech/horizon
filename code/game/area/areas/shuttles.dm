@@ -294,9 +294,12 @@
 	name = "The Barrows"
 	requires_power = FALSE
 	area_limited_icon_smoothing = /area/shuttle/barrow
+
 /area/shuttle/barrow/helm
 	name = "The Barrows Helm"
+
 /area/shuttle/barrow/medbay
 	name = "The Barrows Medbay"
+
 /area/shuttle/barrow/bar
 	name = "The Barrows Bar"
