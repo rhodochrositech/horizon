@@ -15,7 +15,7 @@
 	dir = 2;
 	dwidth = 6;
 	height = 41;
-	id = "the_barrows";
+	id = "Barrow's Ship";
 	launch_status = 0;
 	name = "The Barrows";
 	port_direction = 2;
@@ -25,8 +25,8 @@
 /turf/open/floor/plating,
 /area/shuttle/barrow)
 "ae" = (
-/obj/machinery/power/smes/engineering,
 /obj/structure/cable,
+/obj/machinery/shield_generator,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/barrow)
 "af" = (
@@ -78,12 +78,6 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/barrow)
-"am" = (
-/obj/machinery/power/terminal{
-	dir = 1
-	},
-/turf/open/floor/mineral/plastitanium,
-/area/shuttle/barrow)
 "an" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/door/airlock/external/glass,
@@ -98,18 +92,10 @@
 /obj/machinery/transporter,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/barrow)
-"ar" = (
-/obj/effect/turf_decal/bot,
-/obj/machinery/power/port_gen/pacman{
-	anchored = 1
-	},
-/obj/item/wrench,
-/turf/open/floor/mineral/plastitanium,
-/area/shuttle/barrow)
 "as" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/bot,
-/obj/machinery/suit_storage_unit/standard_unit,
+/obj/machinery/recharge_station,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/barrow)
 "at" = (
@@ -1205,7 +1191,7 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/barrow/helm)
 "qC" = (
-/obj/machinery/porta_turret/syndicate/energy,
+/obj/machinery/mining_laser,
 /turf/open/floor/circuit,
 /area/shuttle/barrow/medbay)
 "qG" = (
@@ -1497,10 +1483,6 @@
 	},
 /turf/open/floor/carpet/lone/star,
 /area/shuttle/barrow/bar)
-"Ol" = (
-/obj/machinery/porta_turret/syndicate/energy,
-/turf/open/floor/circuit,
-/area/shuttle/barrow/helm)
 "Ox" = (
 /obj/structure/table/bronze,
 /obj/machinery/chem_dispenser/drinks/beer/fullupgrade,
@@ -1904,7 +1886,7 @@ mh
 (5,1,1) = {"
 aC
 ae
-am
+bB
 bB
 aA
 aG
@@ -2205,7 +2187,7 @@ cM
 (12,1,1) = {"
 ac
 aC
-ar
+bD
 bD
 aC
 aK
@@ -2278,7 +2260,7 @@ ci
 It
 It
 It
-Ol
+Ff
 cM
 cM
 cM
