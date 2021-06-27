@@ -10,10 +10,10 @@
 	dir = 2;
 	dwidth = 11;
 	height = 17;
-	id = "whiteship";
+	id = "ironwrought";
 	launch_status = 0;
 	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
-	name = "Hospital Ship";
+	name = "The Ironwrought";
 	port_direction = 8;
 	preferred_direction = 4;
 	width = 34
