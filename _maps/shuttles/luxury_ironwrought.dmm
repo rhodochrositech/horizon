@@ -27,6 +27,7 @@
 /obj/machinery/light/small/built/directional/north,
 /obj/structure/bed,
 /obj/machinery/airalarm/all_access{
+	heating_temp_setpoint = 400;
 	pixel_y = 24
 	},
 /obj/item/bedsheet,
@@ -120,6 +121,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/airalarm/all_access{
+	heating_temp_setpoint = 400;
 	pixel_y = 24
 	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
@@ -363,6 +365,10 @@
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
 	},
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/ironwrought)
 "aM" = (
@@ -486,6 +492,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/airalarm/all_access{
 	dir = 1;
+	heating_temp_setpoint = 400;
 	pixel_y = -24
 	},
 /obj/machinery/light/small/built/directional/south,
@@ -518,6 +525,10 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/turf_decal/delivery,
 /obj/effect/decal/cleanable/blood/gibs/old,
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/ironwrought)
 "bb" = (
@@ -562,6 +573,7 @@
 /obj/item/trash/pistachios,
 /obj/machinery/airalarm/all_access{
 	dir = 1;
+	heating_temp_setpoint = 400;
 	pixel_y = -24
 	},
 /obj/item/trash/can,
@@ -610,6 +622,10 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
 	dir = 4
 	},
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
 /turf/open/floor/engine,
 /area/shuttle/ironwrought)
 "bm" = (
@@ -641,6 +657,7 @@
 	},
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/airalarm/all_access{
+	heating_temp_setpoint = 400;
 	pixel_y = 24
 	},
 /obj/machinery/light/small/built/directional/north,
@@ -659,21 +676,22 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 9
 	},
-/obj/structure/lattice/catwalk/swarmer_catwalk,
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bt" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
-/obj/structure/lattice/catwalk/swarmer_catwalk,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bu" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 5
 	},
-/obj/structure/lattice/catwalk/swarmer_catwalk,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bw" = (
@@ -737,7 +755,6 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 10
 	},
-/obj/structure/lattice/catwalk/swarmer_catwalk,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bD" = (
@@ -747,7 +764,6 @@
 	},
 /obj/effect/turf_decal/stripes/line,
 /obj/machinery/mineral/ore_redemption,
-/obj/structure/lattice/catwalk/swarmer_catwalk,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bE" = (
@@ -757,7 +773,6 @@
 /obj/effect/turf_decal/stripes/line{
 	dir = 6
 	},
-/obj/structure/lattice/catwalk/swarmer_catwalk,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought/engine)
 "bF" = (
@@ -775,6 +790,10 @@
 	},
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
+	},
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/ironwrought)
@@ -1048,6 +1067,10 @@
 	id = "whiteship_forge";
 	name = "Bridge Blast Door Control";
 	pixel_x = 6
+	},
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/ironwrought)
@@ -1417,6 +1440,10 @@
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
 	},
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/ironwrought)
 "dk" = (
@@ -1485,6 +1512,7 @@
 /obj/machinery/light/small/built/directional/west,
 /obj/machinery/airalarm/all_access{
 	dir = 4;
+	heating_temp_setpoint = 400;
 	pixel_x = -24
 	},
 /obj/machinery/power/apc/auto_name/north,
@@ -1494,6 +1522,15 @@
 /obj/structure/cable,
 /turf/open/floor/iron,
 /area/shuttle/ironwrought)
+"fP" = (
+/obj/machinery/airalarm/engine{
+	dir = 4;
+	heating_temp_setpoint = 400
+	},
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
 "fS" = (
 /obj/effect/spawner/structure/window/shuttle,
 /obj/machinery/door/poddoor{
@@ -1515,6 +1552,15 @@
 	},
 /turf/open/floor/circuit/red/anim,
 /area/shuttle/ironwrought)
+"hW" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden,
+/obj/machinery/airalarm/engine{
+	heating_temp_setpoint = 400
+	},
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
 "it" = (
 /obj/structure/lattice/catwalk,
 /turf/template_noop,
@@ -1531,12 +1577,6 @@
 /obj/machinery/atmospherics/pipe/heat_exchanging/manifold4w,
 /turf/template_noop,
 /area/shuttle/ironwrought)
-"li" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden,
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
 "pb" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -1553,9 +1593,21 @@
 	name = "Riveted Molten Iron"
 	},
 /area/shuttle/ironwrought)
-"qG" = (
+"pZ" = (
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
+"rE" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden,
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
+"sh" = (
 /obj/machinery/airalarm/engine{
-	dir = 8
+	dir = 8;
+	heating_temp_setpoint = 400
 	},
 /turf/closed/indestructible/riveted/boss{
 	name = "Riveted Molten Iron"
@@ -1566,14 +1618,13 @@
 /obj/structure/cable,
 /turf/open/floor/iron/solarpanel/airless,
 /area/shuttle/ironwrought)
-"vb" = (
-/obj/machinery/airalarm/engine{
-	dir = 4
+"wY" = (
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
 	},
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
+/turf/open/floor/engine,
+/area/shuttle/ironwrought)
 "yu" = (
 /obj/structure/tank_holder,
 /turf/open/floor/engine,
@@ -1588,17 +1639,19 @@
 /obj/structure/cable,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought)
-"CV" = (
-/obj/machinery/airalarm/engine,
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
 "Dc" = (
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/machinery/door/airlock/external,
 /obj/structure/fans/tiny,
 /turf/open/floor/engine,
+/area/shuttle/ironwrought)
+"EK" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/airalarm/all_access{
+	heating_temp_setpoint = 400;
+	pixel_y = 24
+	},
+/turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/ironwrought)
 "Hf" = (
 /obj/effect/spawner/structure/window/shuttle,
@@ -1610,13 +1663,6 @@
 	},
 /turf/open/floor/plating,
 /area/shuttle/ironwrought)
-"Jz" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden,
-/obj/machinery/airalarm/engine,
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
 "JI" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
@@ -1629,21 +1675,19 @@
 	},
 /turf/open/floor/engine/hull/reinforced,
 /area/shuttle/ironwrought)
-"JW" = (
-/obj/machinery/button/door/directional/south{
-	id = "whiteship_forge";
-	name = "Bridge Blast Door Control";
-	pixel_x = 6
-	},
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
 "KF" = (
 /obj/structure/closet/crate/solarpanel_small,
 /obj/item/stack/sheet/glass/fifty,
 /turf/open/floor/engine,
 /area/shuttle/ironwrought)
+"KR" = (
+/obj/machinery/airalarm/engine{
+	heating_temp_setpoint = 400
+	},
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
 "LY" = (
 /obj/structure/sign/warning/nosmoking{
 	pixel_y = 30
@@ -1662,11 +1706,6 @@
 	name = "Riveted Molten Iron"
 	},
 /area/shuttle/ironwrought)
-"OP" = (
-/turf/closed/indestructible/riveted/boss{
-	name = "Riveted Molten Iron"
-	},
-/area/shuttle/ironwrought/engine)
 "Pp" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden,
 /turf/closed/indestructible/riveted/boss{
@@ -1683,13 +1722,6 @@
 	},
 /turf/open/floor/engine/hull/reinforced,
 /area/shuttle/ironwrought)
-"TC" = (
-/obj/effect/decal/cleanable/dirt/dust,
-/obj/machinery/airalarm/all_access{
-	pixel_y = 24
-	},
-/turf/open/floor/mineral/titanium/tiled/yellow,
-/area/shuttle/ironwrought)
 "Uc" = (
 /obj/machinery/door/airlock/external,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -1697,6 +1729,30 @@
 	dir = 4
 	},
 /obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/ironwrought)
+"XW" = (
+/obj/machinery/space_heater{
+	on = 1;
+	target_temperature = 400
+	},
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/ironwrought)
+"Yx" = (
+/obj/machinery/button/door/directional/south{
+	id = "whiteship_forge";
+	name = "Bridge Blast Door Control";
+	pixel_x = 6
+	},
+/turf/closed/indestructible/riveted/boss{
+	name = "Riveted Molten Iron"
+	},
+/area/shuttle/ironwrought/engine)
+"YI" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden{
+	dir = 4
+	},
 /turf/open/floor/engine,
 /area/shuttle/ironwrought)
 
@@ -1788,7 +1844,7 @@ cJ
 it
 cJ
 cq
-cp
+wY
 cJ
 cJ
 cJ
@@ -1840,11 +1896,11 @@ Bv
 aa
 cJ
 MQ
-bl
+YI
 cJ
 aa
 cJ
-bl
+YI
 KF
 cJ
 aa
@@ -1921,7 +1977,7 @@ cJ
 kG
 cJ
 bp
-bl
+YI
 cJ
 cJ
 aa
@@ -2011,11 +2067,11 @@ am
 av
 aJ
 ba
-OP
-qG
+pZ
+sh
 bP
-OP
-li
+pZ
+rE
 cF
 cP
 da
@@ -2029,12 +2085,12 @@ cJ
 cJ
 aw
 cJ
-OP
-OP
+pZ
+pZ
 bB
 bQ
 cf
-Jz
+hW
 dq
 dq
 db
@@ -2048,12 +2104,12 @@ ai
 an
 ax
 aK
-OP
+pZ
 bs
 bC
 bR
 cg
-li
+rE
 dk
 cR
 dc
@@ -2067,12 +2123,12 @@ cJ
 cJ
 ay
 aL
-CV
+KR
 bt
 bD
 bS
 ch
-li
+rE
 cS
 cS
 de
@@ -2086,13 +2142,13 @@ ai
 ao
 az
 aM
-OP
+pZ
 bu
 bE
 bT
 ci
-li
-cS
+rE
+XW
 dq
 de
 dn
@@ -2105,12 +2161,12 @@ cJ
 cJ
 aA
 cJ
-JW
+Yx
 bI
 bF
 bU
 cj
-li
+rE
 cJ
 LY
 df
@@ -2124,12 +2180,12 @@ aj
 ap
 aB
 aN
-OP
-OP
-vb
+pZ
+pZ
+fP
 bV
-OP
-OP
+pZ
+pZ
 cS
 cS
 dg
@@ -2187,7 +2243,7 @@ cJ
 bY
 cJ
 cJ
-TC
+EK
 cW
 dj
 cJ
