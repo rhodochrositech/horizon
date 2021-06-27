@@ -158,6 +158,7 @@
 	launch_status = 0;
 	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
 	name = "The Chilldown";
+	port_direction = 4;
 	preferred_direction = 4;
 	width = 26
 	},
