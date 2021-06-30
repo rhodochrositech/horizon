@@ -2,7 +2,7 @@
 	name = "HRV FoxCat Armor Helmet"
 	desc = "An advanced armor that is equipped with a Hyper Reality Visor. Equipped with advanced telemetry tech."
 	icon_state = "skiesuit"
-	inhand_icon_state = "skiesuit"
+	inhand_icon_state = "helmet"
 	slowdown = 1
 	armor = list(MELEE = 60, BULLET = 60, LASER = 60, ENERGY = 60, BOMB = 30, BIO = 90, RAD = 90, FIRE = 100, ACID = 100)
 	resistance_flags = FIRE_PROOF | ACID_PROOF
