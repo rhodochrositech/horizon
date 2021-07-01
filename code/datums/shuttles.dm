@@ -728,3 +728,8 @@
 	port_id = "supercruiser"
 	suffix = "aggregeddon"
 	name = "Supercruiser Aggregeddon"
+
+/datum/map_template/shuttle/mezzeriah
+	port_id = "supercruiser"
+	suffix = "mezzeriah"
+	name = "Supercruiser Mezzeriah"
