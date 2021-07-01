@@ -3,36 +3,71 @@
 /obj/machinery/teleport/hub,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
+"au" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"aE" = (
+/obj/structure/cable,
+/obj/machinery/bsa/front,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"aX" = (
+/obj/structure/closet/secure_closet/ert_engi,
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
 "bl" = (
 /obj/docking_port/mobile{
 	dir = 4;
 	dwidth = 13;
 	height = 3;
-	id = "chilldown";
+	id = "aggregeddon";
 	launch_status = 0;
 	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
-	name = "The Chilldown";
-	preferred_direction = 4;
+	name = "Supercruiser Aggregeddon";
+	preferred_direction = 8;
 	width = 26
 	},
 /obj/machinery/door/airlock/external/glass{
 	id_tag = "piratestarboardexternal"
 	},
+/obj/structure/fans/tiny,
+/obj/structure/fans/tiny,
+/obj/structure/fans/tiny,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "bB" = (
 /obj/structure/chair/comfy/shuttle,
 /turf/open/floor/carpet/executive,
 /area/shuttle/aggregeddon)
+"cG" = (
+/obj/machinery/light/floor,
+/obj/item/beacon,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
 "cJ" = (
 /turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"cL" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/obj/structure/closet/crate/rcd,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "cR" = (
 /obj/structure/closet/radiation,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
+"cW" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/laser,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "dk" = (
-/obj/machinery/door/poddoor/shutters,
+/obj/machinery/door/poddoor/shutters{
+	id = "mechdoors"
+	},
+/obj/machinery/light/floor,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "dm" = (
@@ -49,16 +84,26 @@
 "dA" = (
 /turf/open/floor/plating,
 /area/shuttle/aggregeddon)
+"dC" = (
+/obj/machinery/stasis{
+	dir = 8
+	},
+/obj/structure/curtain/bounty,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
 "dI" = (
 /obj/structure/shuttle/engine/heater{
 	dir = 8
 	},
 /turf/open/floor/plating,
 /area/shuttle/aggregeddon)
+"dS" = (
+/obj/machinery/bsa/middle,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
 "eq" = (
-/obj/structure/grille,
-/obj/structure/window/plasma/reinforced/plastitanium,
-/turf/open/floor/plating,
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "eu" = (
 /obj/machinery/light/floor,
@@ -68,11 +113,22 @@
 /obj/structure/closet/secure_closet/engineering_welding,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
+"gh" = (
+/obj/machinery/computer/shuttle/supercruiser_aggregeddon{
+	dir = 8
+	},
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
 "gn" = (
 /obj/machinery/computer/crew{
 	dir = 1
 	},
 /turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"gu" = (
+/obj/structure/cable,
+/obj/machinery/bsa/back,
+/turf/open/floor/iron/freezer,
 /area/shuttle/aggregeddon)
 "gO" = (
 /turf/closed/wall/mineral/plastitanium,
@@ -84,9 +140,19 @@
 "hn" = (
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
+"ik" = (
+/obj/structure/closet/secure_closet/ert_med,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"iC" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/backpack/duffelbag/med/surgery,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
 "iL" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/west,
+/obj/structure/closet/secure_closet/ert_com,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "iS" = (
@@ -101,6 +167,24 @@
 /obj/structure/railing,
 /turf/open/floor/circuit,
 /area/shuttle/aggregeddon)
+"iV" = (
+/obj/effect/spawner/lootdrop/melee_weapon,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"jH" = (
+/obj/machinery/computer/operating{
+	dir = 1
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"kd" = (
+/obj/machinery/smartfridge/organ,
+/turf/open/floor/carpet/blue,
+/area/shuttle/aggregeddon)
+"kt" = (
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
 "kx" = (
 /obj/structure/cable,
 /turf/open/floor/mineral/plastitanium/red,
@@ -113,6 +197,22 @@
 /obj/machinery/power/apc/auto_name/north,
 /turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
+"kM" = (
+/obj/machinery/button{
+	id = "mechdoors"
+	},
+/turf/closed/wall/mineral/plastitanium,
+/area/shuttle/aggregeddon)
+"kZ" = (
+/obj/machinery/button{
+	id = "gundoors"
+	},
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
+"lp" = (
+/obj/structure/table/optable,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
 "lv" = (
 /obj/structure/cable,
 /obj/structure/cable,
@@ -121,6 +221,10 @@
 "lx" = (
 /obj/machinery/shield_generator,
 /turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"lA" = (
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
 "lG" = (
 /obj/machinery/power/emitter/welded{
@@ -141,6 +245,7 @@
 /obj/structure/reflector/box/anchored,
 /obj/structure/cable,
 /obj/machinery/light/floor,
+/obj/machinery/light/cold/no_nightlight/directional/north,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "mD" = (
@@ -155,6 +260,10 @@
 /obj/machinery/light/floor,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
+"mZ" = (
+/obj/machinery/light/cold/no_nightlight/directional/south,
+/turf/open/floor/circuit/off,
+/area/shuttle/aggregeddon)
 "no" = (
 /obj/machinery/airalarm/directional/north,
 /turf/open/floor/engine,
@@ -168,11 +277,16 @@
 	},
 /turf/open/floor/carpet/executive,
 /area/shuttle/aggregeddon)
+"oa" = (
+/obj/machinery/bsa/front,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
 "oC" = (
-/obj/machinery/door/poddoor{
+/obj/structure/cable,
+/obj/machinery/light/floor,
+/obj/machinery/door/poddoor/shutters{
 	id = "gundoors"
 	},
-/obj/structure/cable,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "oJ" = (
@@ -181,7 +295,6 @@
 "pg" = (
 /obj/structure/cable,
 /obj/machinery/light/floor,
-/obj/machinery/bsa/full,
 /turf/open/floor/iron/freezer,
 /area/shuttle/aggregeddon)
 "pq" = (
@@ -195,9 +308,19 @@
 "pw" = (
 /turf/open/floor/circuit,
 /area/shuttle/aggregeddon)
+"pF" = (
+/obj/structure/closet/secure_closet/ert_sec,
+/obj/machinery/light/cold/no_nightlight/directional/east,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
 "pG" = (
 /obj/machinery/airalarm/directional/north,
-/turf/open/floor/circuit/off,
+/obj/machinery/door/airlock/security/glass,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"qx" = (
+/obj/item/beacon,
+/turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "qO" = (
 /turf/open/floor/iron/freezer,
@@ -211,9 +334,23 @@
 /obj/machinery/power/apc/auto_name/west,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
+"rG" = (
+/obj/structure/table/reinforced,
+/obj/item/stack/sheet/mineral/plasma/thirty,
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"rJ" = (
+/obj/machinery/light/cold/no_nightlight/directional/east,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
 "rR" = (
 /obj/machinery/shieldgen,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"sp" = (
+/obj/structure/closet/crate/maint,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "sI" = (
 /obj/machinery/modular_computer/console/preset/command{
@@ -222,7 +359,30 @@
 /obj/structure/railing{
 	dir = 4
 	},
+/obj/machinery/light/cold/no_nightlight/directional/south,
 /turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"sM" = (
+/obj/machinery/suit_storage_unit/ert/command,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"tV" = (
+/obj/machinery/airalarm/directional/west,
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"ue" = (
+/obj/structure/cable,
+/obj/machinery/power/port_gen/pacman,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"uM" = (
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/circuit/off,
+/area/shuttle/aggregeddon)
+"uR" = (
+/obj/machinery/light/cold/no_nightlight/directional/south,
+/turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "uT" = (
 /obj/machinery/modular_computer/console/preset/engineering{
@@ -239,6 +399,10 @@
 	},
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
+"vo" = (
+/obj/structure/closet/crate/medical,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
 "vy" = (
 /obj/structure/shuttle/engine/large{
 	dir = 8
@@ -251,7 +415,8 @@
 /area/shuttle/aggregeddon)
 "vW" = (
 /obj/machinery/power/apc/auto_name/north,
-/turf/open/floor/carpet/stellar,
+/obj/machinery/computer/bsa_control,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "wt" = (
 /obj/machinery/modular_computer/console/preset/civilian,
@@ -264,11 +429,19 @@
 /obj/structure/cable,
 /turf/open/floor/circuit,
 /area/shuttle/aggregeddon)
+"wv" = (
+/obj/effect/spawner/lootdrop/handgun,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
 "wx" = (
 /obj/machinery/power/supermatter_crystal/shard/engine,
 /turf/open/floor/plating/planetary/water/chlorine{
 	name = "nuclear waste"
 	},
+/area/shuttle/aggregeddon)
+"wD" = (
+/obj/structure/closet/crate/science,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "wI" = (
 /obj/machinery/power/apc/auto_name/north,
@@ -279,12 +452,35 @@
 /obj/structure/window/plasma/reinforced/fulltile,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
+"xg" = (
+/obj/structure/cable,
+/obj/structure/fans/tiny,
+/turf/open/indestructible/hierophant,
+/area/shuttle/aggregeddon)
+"xE" = (
+/obj/structure/sign/directions/medical,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
+"xH" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "xI" = (
 /obj/machinery/airalarm/directional/west,
+/obj/machinery/door/airlock/security/glass,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"xM" = (
+/obj/machinery/light/cold/no_nightlight/directional/east,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "xO" = (
 /turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
+"xQ" = (
+/obj/structure/cable,
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/aggregeddon)
 "xR" = (
 /obj/machinery/light/floor,
@@ -298,14 +494,43 @@
 /obj/machinery/door/airlock/security/glass,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
+"Ah" = (
+/obj/structure/window/plasma/reinforced/fulltile,
+/obj/structure/fans/tiny,
+/turf/open/indestructible/hierophant,
+/area/shuttle/aggregeddon)
 "Av" = (
 /obj/machinery/light/floor,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"AJ" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/ionrifle,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"AL" = (
+/obj/machinery/button{
+	id = "gundoors"
+	},
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/aggregeddon)
 "AV" = (
 /obj/structure/cable,
 /obj/machinery/power/rad_collector/anchored,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Bf" = (
+/obj/machinery/light/cold/no_nightlight/directional/south,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Bh" = (
+/obj/structure/closet/radiation,
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"Ce" = (
+/obj/effect/spawner/lootdrop/medkit,
+/turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
 "Co" = (
 /obj/machinery/light/floor,
@@ -313,11 +538,15 @@
 /area/shuttle/aggregeddon)
 "CO" = (
 /obj/structure/chair/comfy/shuttle,
-/turf/open/floor/carpet/stellar,
+/turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "Dl" = (
-/obj/structure/cable,
-/turf/open/space/basic,
+/obj/machinery/computer/bsa_control,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"DV" = (
+/obj/structure/fans/tiny,
+/turf/open/indestructible/hierophant,
 /area/shuttle/aggregeddon)
 "Ee" = (
 /obj/structure/shuttle/engine/huge{
@@ -331,13 +560,31 @@
 	},
 /turf/open/floor/carpet/executive,
 /area/shuttle/aggregeddon)
+"EU" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"Fl" = (
+/obj/structure/closet/crate/secure/gear,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"FD" = (
+/obj/structure/cable,
+/obj/machinery/bsa/middle,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"Gy" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
 "GC" = (
 /turf/open/floor/circuit/off,
 /area/shuttle/aggregeddon)
 "GO" = (
 /obj/machinery/airalarm/directional/west,
-/obj/machinery/computer/bsa_control,
-/turf/open/floor/circuit/red/anim,
+/obj/structure/table/reinforced,
+/obj/machinery/keycard_auth,
+/turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "GY" = (
 /obj/structure/table/reinforced,
@@ -350,9 +597,22 @@
 /obj/item/gun/energy/pulse,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
+"Hw" = (
+/obj/item/stack/sheet/mineral/plasma/thirty,
+/obj/structure/table/reinforced,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"HF" = (
+/turf/open/indestructible/hierophant,
+/area/shuttle/aggregeddon)
 "HQ" = (
 /obj/structure/window/plasma/reinforced/fulltile,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"HV" = (
+/obj/machinery/vending/medical,
+/obj/machinery/light/cold/no_nightlight/directional/east,
+/turf/open/floor/mineral/titanium/blue,
 /area/shuttle/aggregeddon)
 "Ip" = (
 /obj/structure/cable,
@@ -361,6 +621,10 @@
 "Iz" = (
 /obj/structure/tank_dispenser,
 /turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"ID" = (
+/obj/machinery/keycard_auth,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/aggregeddon)
 "IQ" = (
 /obj/structure/chair/comfy/shuttle{
@@ -373,6 +637,11 @@
 /obj/structure/cable,
 /obj/machinery/shieldgen,
 /turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Jz" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/laser/hellgun,
+/turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "JP" = (
 /obj/structure/grille,
@@ -390,6 +659,12 @@
 /obj/structure/table/reinforced,
 /obj/item/clothing/head/helmet/space/chronos/hrvfoxcat,
 /obj/item/clothing/suit/space/chronos/hrvfoxcat,
+/obj/item/gun/energy/minigun,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"JZ" = (
+/obj/machinery/light/floor,
+/obj/structure/closet/secure_closet/ert_engi,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "KL" = (
@@ -399,9 +674,8 @@
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "Lu" = (
-/obj/machinery/stasis{
-	dir = 8
-	},
+/obj/structure/table/optable,
+/obj/machinery/light/cold/no_nightlight/directional/south,
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/aggregeddon)
 "LA" = (
@@ -416,9 +690,29 @@
 /obj/structure/closet/secure_closet/ert_engi,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
+"Mi" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/carpet/blue,
+/area/shuttle/aggregeddon)
+"MA" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/laser,
+/obj/item/gun/energy/temperature,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Ns" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
 "NC" = (
 /obj/machinery/door/airlock/medical/glass,
 /turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"NK" = (
+/obj/machinery/telecomms/relay/preset/auto,
+/turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/aggregeddon)
 "NQ" = (
 /obj/machinery/power/emitter/welded{
@@ -431,9 +725,20 @@
 /obj/machinery/light/floor,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/aggregeddon)
+"Po" = (
+/obj/machinery/light/cold/no_nightlight/directional/east,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
 "Pu" = (
 /obj/structure/closet/secure_closet/atmospherics,
 /turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"PN" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/pulse/pistol/m1911,
+/obj/item/gun/grenadelauncher,
+/obj/item/storage/belt/grenade/full,
+/turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "QA" = (
 /obj/machinery/modular_computer/console/preset/civilian{
@@ -448,17 +753,30 @@
 /area/shuttle/aggregeddon)
 "Ri" = (
 /obj/machinery/airalarm/directional/east,
+/obj/machinery/suit_storage_unit/ert/engineer,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Rj" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/titanium/blue,
 /area/shuttle/aggregeddon)
 "RM" = (
 /obj/machinery/airalarm/directional/east,
+/obj/machinery/light/cold/no_nightlight/directional/east,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/aggregeddon)
 "RO" = (
 /obj/structure/table/reinforced,
 /obj/item/toy/plush/borbplushie,
 /obj/structure/cable,
+/obj/item/card/id/advanced/gold/captains_spare,
+/obj/machinery/keycard_auth,
 /turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"RS" = (
+/obj/machinery/light/cold/no_nightlight/directional/west,
+/obj/structure/closet/crate/maint,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "Sp" = (
 /turf/open/floor/carpet/blue,
@@ -484,6 +802,10 @@
 /obj/machinery/door/airlock/engineering/glass,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
+"Tt" = (
+/obj/structure/closet/ammunitionlocker,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "TQ" = (
 /obj/structure/railing,
 /obj/structure/chair/comfy/shuttle{
@@ -494,6 +816,18 @@
 "Ud" = (
 /obj/machinery/door/airlock/engineering/glass,
 /turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"Us" = (
+/obj/vehicle/sealed/mecha/medical/odysseus,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"Uv" = (
+/obj/machinery/stasis{
+	dir = 8
+	},
+/obj/machinery/light/cold/no_nightlight/directional/south,
+/obj/structure/curtain/bounty,
+/turf/open/floor/mineral/titanium/blue,
 /area/shuttle/aggregeddon)
 "UM" = (
 /obj/structure/chair/comfy/shuttle{
@@ -510,12 +844,22 @@
 /obj/structure/sign/warning/explosives,
 /turf/closed/wall/mineral/plastitanium,
 /area/shuttle/aggregeddon)
+"UW" = (
+/obj/machinery/airalarm/directional/west,
+/obj/structure/closet/secure_closet/engineering_chief,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "VW" = (
 /obj/structure/cable,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "Wf" = (
 /obj/machinery/airalarm/directional/north,
+/obj/machinery/light/cold/no_nightlight/directional/north,
+/obj/item/hand_tele,
+/obj/item/hand_tele,
+/obj/item/hand_tele,
+/obj/structure/table/reinforced,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "Wh" = (
@@ -527,20 +871,38 @@
 "Wj" = (
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/aggregeddon)
+"Wr" = (
+/obj/effect/spawner/lootdrop/hardsuit,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"Xc" = (
+/obj/machinery/light/floor,
+/obj/structure/closet/ammunitionlocker,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "Xn" = (
 /obj/machinery/light/floor,
 /turf/open/floor/circuit/off,
 /area/shuttle/aggregeddon)
+"Xx" = (
+/obj/structure/closet/crate/secure/gear,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
 "XM" = (
 /obj/machinery/light/floor,
 /turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"XY" = (
+/obj/structure/closet/crate/secure/gear,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "Yt" = (
 /obj/vehicle/sealed/mecha/combat/phazon,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
 "Yw" = (
-/obj/machinery/door/poddoor{
+/obj/machinery/light/floor,
+/obj/machinery/door/poddoor/shutters{
 	id = "gundoors"
 	},
 /turf/open/floor/engine,
@@ -548,6 +910,14 @@
 "Yx" = (
 /obj/vehicle/sealed/mecha/working/ripley/deathripley/real,
 /turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Yz" = (
+/obj/machinery/recycler/deathtrap,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"YH" = (
+/obj/structure/closet/crate/medical,
+/turf/open/floor/circuit/red/anim,
 /area/shuttle/aggregeddon)
 "Zj" = (
 /turf/open/floor/mineral/titanium/blue,
@@ -635,7 +1005,7 @@ dA
 dA
 dA
 xO
-cJ
+NK
 SK
 xO
 dy
@@ -667,8 +1037,8 @@ dI
 dI
 dI
 xO
-cJ
-cJ
+lA
+wv
 wU
 QL
 dy
@@ -680,8 +1050,8 @@ dy
 dy
 QL
 wU
-Zj
-Zj
+vo
+iC
 wU
 wU
 wU
@@ -698,10 +1068,10 @@ wU
 wU
 wU
 wU
+wv
 cJ
 cJ
-cJ
-cJ
+Wr
 wU
 QL
 dy
@@ -712,17 +1082,17 @@ dy
 QL
 wU
 Wh
-Zj
-Zj
-Zj
-Zj
-Zj
+vo
+iC
+ik
+ik
+ik
 Zk
 QL
 "}
 (6,1,1) = {"
 QL
-hn
+eq
 Av
 xO
 xO
@@ -733,7 +1103,7 @@ Iz
 cJ
 cJ
 mX
-cJ
+iV
 cJ
 wU
 QL
@@ -757,14 +1127,14 @@ QL
 xO
 hn
 hn
-hn
-hn
-hn
+Hw
+rG
+ue
 xO
 Iz
 cJ
 cJ
-cJ
+Ce
 cJ
 cJ
 SK
@@ -776,12 +1146,12 @@ wU
 Wh
 Zj
 Zj
-Zj
+Po
 Zj
 Sp
 eu
 Sp
-Lu
+jH
 QL
 "}
 (8,1,1) = {"
@@ -791,11 +1161,11 @@ no
 hn
 Av
 hn
-hn
-xI
+VW
+tV
 xO
-GC
-GC
+uM
+mZ
 xO
 xO
 xO
@@ -811,9 +1181,9 @@ xO
 xO
 wI
 Sp
+kd
 Sp
-Sp
-Lu
+Rj
 xO
 "}
 (9,1,1) = {"
@@ -843,20 +1213,20 @@ Yt
 dk
 Zj
 Sp
+Mi
 Sp
-Sp
-Lu
+lp
 xO
 "}
 (10,1,1) = {"
 xO
-Dl
+VW
 hn
 wU
 wU
 wU
 hn
-hn
+uR
 pq
 GC
 GC
@@ -875,9 +1245,9 @@ hn
 dk
 Zj
 Sp
+Mi
 Sp
-Sp
-Lu
+jH
 xO
 "}
 (11,1,1) = {"
@@ -894,22 +1264,22 @@ GC
 GC
 dk
 hn
+Jz
+iS
+PN
 hn
 hn
 hn
-hn
-hn
-hn
-hn
-hn
-hn
+Jz
+MA
+cW
 hn
 dk
 Zj
 Sp
+Mi
 Sp
-Sp
-Lu
+dC
 QL
 "}
 (12,1,1) = {"
@@ -926,22 +1296,22 @@ GC
 Xn
 dk
 hn
-Av
-hn
-hn
-hn
-Av
-hn
-hn
+Xc
+Jz
+Tt
 hn
 Av
+hn
+Tt
+iS
+Xc
 hn
 dk
 Zj
 Sp
 Sp
 Sp
-Lu
+Uv
 QL
 "}
 (13,1,1) = {"
@@ -958,22 +1328,22 @@ GC
 GC
 dk
 hn
+AJ
+MA
+cW
 hn
 hn
 hn
-hn
-hn
-hn
-hn
-hn
-hn
+Jz
+AJ
+PN
 hn
 dk
 Zj
 Sp
 Sp
 Sp
-Lu
+dC
 QL
 "}
 (14,1,1) = {"
@@ -984,7 +1354,7 @@ wU
 wU
 wU
 hn
-hn
+uR
 pq
 GC
 GC
@@ -1047,17 +1417,17 @@ no
 hn
 Av
 hn
-hn
+xM
 Ri
 xO
 pG
-GC
+kZ
 UO
 QL
 QL
 QL
 QL
-QL
+kM
 Tl
 gO
 QL
@@ -1065,11 +1435,11 @@ QL
 QL
 QL
 UO
-Zj
+Us
 Zj
 Sp
 Zj
-Zj
+HV
 xO
 "}
 (17,1,1) = {"
@@ -1083,57 +1453,57 @@ xO
 xO
 Wj
 OU
-Wj
+au
 Yw
-Zm
-Zm
-Zm
-Zm
-Zm
+YH
+RS
+sp
+sp
+EU
 qO
-Zm
-Zm
-Zm
-Zm
-Zm
+EU
+XY
+wD
+cL
+sp
 Yw
-xO
+kZ
 xO
 NC
-xO
+xE
 xO
 QL
 "}
 (18,1,1) = {"
 QL
-kx
+xQ
+Wj
+au
 Wj
 Wj
-Wj
-Wj
-Wj
+au
 Wj
 Wj
 Wj
 Wj
 Yw
 Zm
+dS
 qO
-qO
-qO
+oa
 Zm
 pw
 Zm
 qO
-qO
+oa
 qO
 Zm
 Yw
-oJ
+Gy
 rB
 oJ
 oJ
-oJ
+Bf
 QL
 "}
 (19,1,1) = {"
@@ -1151,14 +1521,14 @@ kx
 oC
 Ip
 lv
-mi
-mi
-Ip
+aE
 mi
 Ip
 mi
-mi
-mi
+Ip
+gu
+FD
+FD
 Zm
 Yw
 oJ
@@ -1173,7 +1543,7 @@ xO
 kB
 Wj
 ds
-Wj
+Fl
 UM
 ds
 Wj
@@ -1182,9 +1552,9 @@ Wj
 Wj
 Yw
 Zm
+gu
 mi
-mi
-mi
+gu
 Zm
 Co
 Zm
@@ -1215,7 +1585,7 @@ Wj
 Yw
 Zm
 mi
-mi
+aE
 mi
 Zm
 qO
@@ -1240,7 +1610,7 @@ rz
 Wj
 UM
 rz
-Wj
+Fl
 IQ
 Wj
 Wj
@@ -1250,7 +1620,7 @@ mi
 mi
 mi
 Zm
-qO
+Yz
 Zm
 mi
 mi
@@ -1298,7 +1668,7 @@ QL
 "}
 (24,1,1) = {"
 QL
-Wj
+kt
 Wj
 Wj
 Wj
@@ -1325,7 +1695,7 @@ oJ
 oJ
 oJ
 Zj
-oJ
+Bf
 QL
 "}
 (25,1,1) = {"
@@ -1334,7 +1704,7 @@ Wj
 Wj
 Wj
 kB
-kB
+pF
 kB
 kB
 Wj
@@ -1371,17 +1741,17 @@ xO
 xO
 Ad
 xO
-xO
+kZ
 xO
 kH
 mi
-mi
+gu
 mi
 Zm
 qO
 Zm
 mi
-mi
+gu
 mi
 Zm
 Yw
@@ -1397,23 +1767,23 @@ gO
 Pu
 cJ
 cJ
-cR
+Bh
 xO
 iS
-hn
+xH
 hn
 hn
 hn
 Yw
 Zm
 mi
-mi
+FD
 mi
 Zm
 qO
 Zm
 mi
-mi
+FD
 mi
 Zm
 Yw
@@ -1439,13 +1809,13 @@ hn
 Yw
 Zm
 mi
-mi
+aE
 mi
 Zm
 Co
 Zm
 mi
-mi
+aE
 mi
 Zm
 Yw
@@ -1471,13 +1841,13 @@ hn
 Yw
 Zm
 mi
-mi
+xg
 mi
 Zm
 qO
 Zm
 mi
-mi
+xg
 mi
 Zm
 Yw
@@ -1490,7 +1860,7 @@ QL
 "}
 (30,1,1) = {"
 QL
-LQ
+aX
 cJ
 mX
 cJ
@@ -1503,13 +1873,13 @@ hn
 Yw
 Zm
 qO
-qO
+DV
 qO
 Zm
 pw
 Zm
 qO
-qO
+DV
 qO
 Zm
 Yw
@@ -1517,7 +1887,7 @@ oJ
 oJ
 oJ
 oJ
-oJ
+Bf
 QL
 "}
 (31,1,1) = {"
@@ -1535,13 +1905,13 @@ hn
 Yw
 Zm
 Zm
-Zm
+DV
 Zm
 Zm
 pw
 Zm
 Zm
-Zm
+DV
 Zm
 Zm
 Yw
@@ -1562,23 +1932,23 @@ xO
 hn
 hn
 hn
-hn
-hn
+CO
+Dl
 xO
 HQ
 hn
-hn
+DV
 hn
 hn
 pw
 hn
 hn
-hn
+DV
 hn
 HQ
 xO
 vW
-oJ
+Ns
 oJ
 oJ
 oJ
@@ -1599,19 +1969,19 @@ gO
 dy
 mD
 HQ
-hn
+DV
 hn
 hn
 pw
 hn
 hn
-hn
+DV
 HQ
 mD
 xO
 Wf
 oJ
-oJ
+qx
 oJ
 oJ
 bl
@@ -1619,25 +1989,25 @@ bl
 (34,1,1) = {"
 dy
 dy
-eq
+QL
 rR
 hn
-hn
+xO
 Av
 hn
 rR
-eq
+QL
 dy
 dy
 dy
 mD
-HQ
+Ah
 hn
 hn
 pw
 hn
 hn
-HQ
+Ah
 mD
 dy
 QL
@@ -1654,22 +2024,22 @@ dy
 dy
 gO
 hn
-hn
-hn
-hn
+xO
+Xx
+Xx
 gO
 dy
 dy
 dy
 dy
 dy
-mD
+HF
 HQ
 hn
 pw
 hn
 HQ
-mD
+HF
 dy
 dy
 QL
@@ -1685,10 +2055,10 @@ dy
 dy
 dy
 dy
-eq
-eq
-eq
-eq
+QL
+gO
+QL
+QL
 dy
 dy
 dy
@@ -1706,9 +2076,9 @@ dy
 dy
 QL
 an
+rJ
 oJ
-oJ
-oJ
+rJ
 oJ
 gO
 "}
@@ -1737,7 +2107,7 @@ dy
 dy
 dy
 gO
-gO
+AL
 QL
 JX
 QL
@@ -1768,12 +2138,12 @@ dy
 dy
 dy
 dy
-gO
+ID
 hn
 hn
 hn
 hn
-xI
+UW
 gO
 "}
 (39,1,1) = {"
@@ -1800,12 +2170,12 @@ dy
 dy
 dy
 dy
-gO
+ID
 Av
+xM
 hn
-hn
-hn
-Av
+xM
+JZ
 gO
 "}
 (40,1,1) = {"
@@ -1868,7 +2238,7 @@ QL
 iL
 oJ
 oJ
-CO
+oJ
 GO
 QL
 "}
@@ -1899,7 +2269,7 @@ dy
 QL
 wt
 SF
-XM
+cG
 bB
 sI
 QL
@@ -1933,7 +2303,7 @@ RO
 nS
 Ez
 TQ
-oJ
+sM
 QL
 "}
 (44,1,1) = {"
@@ -1963,7 +2333,7 @@ dy
 gO
 Jg
 uT
-pw
+gh
 iT
 lx
 gO
