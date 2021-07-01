@@ -11,7 +11,7 @@
 		/obj/item/gun/energy/chrono_gun,
 		/obj/item/gun/energy/pulse/pistol/m1911,
 		/obj/item/storage/backpack/holding,
-		)
+	)
 	mutant_variants = NONE
 
 /obj/item/clothing/suit/space/chronos/hrvfoxcat
