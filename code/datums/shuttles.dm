@@ -723,3 +723,8 @@
 	port_id = "luxury"
 	suffix = "ironwrought"
 	name = "The Ironwrought"
+
+/datum/map_template/shuttle/aggregeddon
+	port_id = "supercruiser"
+	suffix = "aggregeddon"
+	name = "Supercruiser Aggregeddon"

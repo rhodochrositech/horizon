@@ -1,0 +1,2002 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"an" = (
+/obj/machinery/teleport/hub,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"bl" = (
+/obj/docking_port/mobile{
+	dir = 4;
+	dwidth = 13;
+	height = 3;
+	id = "chilldown";
+	launch_status = 0;
+	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
+	name = "The Chilldown";
+	preferred_direction = 4;
+	width = 26
+	},
+/obj/machinery/door/airlock/external/glass{
+	id_tag = "piratestarboardexternal"
+	},
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"bB" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/carpet/executive,
+/area/shuttle/aggregeddon)
+"cJ" = (
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"cR" = (
+/obj/structure/closet/radiation,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"dk" = (
+/obj/machinery/door/poddoor/shutters,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"dm" = (
+/obj/machinery/computer/teleporter,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"ds" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"dy" = (
+/turf/open/space/basic,
+/area/template_noop)
+"dA" = (
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"dI" = (
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"eq" = (
+/obj/structure/grille,
+/obj/structure/window/plasma/reinforced/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"eu" = (
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/blue,
+/area/shuttle/aggregeddon)
+"fB" = (
+/obj/structure/closet/secure_closet/engineering_welding,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"gn" = (
+/obj/machinery/computer/crew{
+	dir = 1
+	},
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"gO" = (
+/turf/closed/wall/mineral/plastitanium,
+/area/shuttle/aggregeddon)
+"hl" = (
+/obj/machinery/shieldgen,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"hn" = (
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"iL" = (
+/obj/structure/cable,
+/obj/machinery/power/apc/auto_name/west,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"iS" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/pulse/pistol/m1911,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"iT" = (
+/obj/machinery/modular_computer/console/preset/id/centcom{
+	dir = 8
+	},
+/obj/structure/railing,
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"kx" = (
+/obj/structure/cable,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"kB" = (
+/obj/structure/closet/secure_closet/ert_sec,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"kH" = (
+/obj/machinery/power/apc/auto_name/north,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"lv" = (
+/obj/structure/cable,
+/obj/structure/cable,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"lx" = (
+/obj/machinery/shield_generator,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"lG" = (
+/obj/machinery/power/emitter/welded{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"mc" = (
+/obj/structure/chair/office,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"mi" = (
+/obj/structure/cable,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"mA" = (
+/obj/structure/reflector/box/anchored,
+/obj/structure/cable,
+/obj/machinery/light/floor,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"mD" = (
+/obj/structure/window/plasma/reinforced/plastitanium,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"mT" = (
+/obj/machinery/shieldgen,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"mX" = (
+/obj/machinery/light/floor,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"no" = (
+/obj/machinery/airalarm/directional/north,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"nS" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/carpet/executive,
+/area/shuttle/aggregeddon)
+"oC" = (
+/obj/machinery/door/poddoor{
+	id = "gundoors"
+	},
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"oJ" = (
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"pg" = (
+/obj/structure/cable,
+/obj/machinery/light/floor,
+/obj/machinery/bsa/full,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"pq" = (
+/obj/structure/grille,
+/obj/structure/window/plasma/reinforced/plastitanium,
+/obj/machinery/door/poddoor/shutters/radiation{
+	id = "smengineshutter"
+	},
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"pw" = (
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"pG" = (
+/obj/machinery/airalarm/directional/north,
+/turf/open/floor/circuit/off,
+/area/shuttle/aggregeddon)
+"qO" = (
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"rz" = (
+/obj/structure/chair/comfy/shuttle,
+/obj/machinery/light/floor,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"rB" = (
+/obj/machinery/power/apc/auto_name/west,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"rR" = (
+/obj/machinery/shieldgen,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"sI" = (
+/obj/machinery/modular_computer/console/preset/command{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"uT" = (
+/obj/machinery/modular_computer/console/preset/engineering{
+	dir = 8
+	},
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"vc" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"vy" = (
+/obj/structure/shuttle/engine/large{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"vP" = (
+/obj/structure/cable,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
+"vW" = (
+/obj/machinery/power/apc/auto_name/north,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"wt" = (
+/obj/machinery/modular_computer/console/preset/civilian,
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/circuit,
+/area/shuttle/aggregeddon)
+"wx" = (
+/obj/machinery/power/supermatter_crystal/shard/engine,
+/turf/open/floor/plating/planetary/water/chlorine{
+	name = "nuclear waste"
+	},
+/area/shuttle/aggregeddon)
+"wI" = (
+/obj/machinery/power/apc/auto_name/north,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"wU" = (
+/obj/structure/grille,
+/obj/structure/window/plasma/reinforced/fulltile,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"xI" = (
+/obj/machinery/airalarm/directional/west,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"xO" = (
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
+"xR" = (
+/obj/machinery/light/floor,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"zq" = (
+/obj/machinery/teleport/station,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Ad" = (
+/obj/machinery/door/airlock/security/glass,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Av" = (
+/obj/machinery/light/floor,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"AV" = (
+/obj/structure/cable,
+/obj/machinery/power/rad_collector/anchored,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Co" = (
+/obj/machinery/light/floor,
+/turf/open/floor/iron/freezer,
+/area/shuttle/aggregeddon)
+"CO" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Dl" = (
+/obj/structure/cable,
+/turf/open/space/basic,
+/area/shuttle/aggregeddon)
+"Ee" = (
+/obj/structure/shuttle/engine/huge{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"Ez" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/carpet/executive,
+/area/shuttle/aggregeddon)
+"GC" = (
+/turf/open/floor/circuit/off,
+/area/shuttle/aggregeddon)
+"GO" = (
+/obj/machinery/airalarm/directional/west,
+/obj/machinery/computer/bsa_control,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"GY" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/box/zipties,
+/obj/item/clothing/suit/straight_jacket,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"Hi" = (
+/obj/structure/table/reinforced,
+/obj/item/gun/energy/pulse,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"HQ" = (
+/obj/structure/window/plasma/reinforced/fulltile,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Ip" = (
+/obj/structure/cable,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"Iz" = (
+/obj/structure/tank_dispenser,
+/turf/open/floor/plating,
+/area/shuttle/aggregeddon)
+"IQ" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"Jg" = (
+/obj/structure/cable,
+/obj/machinery/shieldgen,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"JP" = (
+/obj/structure/grille,
+/obj/structure/window/plasma/reinforced/plastitanium,
+/obj/machinery/door/poddoor/shutters/radiation{
+	id = "gunports"
+	},
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"JX" = (
+/obj/machinery/door/airlock/command,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"JY" = (
+/obj/structure/table/reinforced,
+/obj/item/clothing/head/helmet/space/chronos/hrvfoxcat,
+/obj/item/clothing/suit/space/chronos/hrvfoxcat,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"KL" = (
+/obj/machinery/modular_computer/console/preset/engineering{
+	dir = 1
+	},
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Lu" = (
+/obj/machinery/stasis{
+	dir = 8
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"LA" = (
+/obj/machinery/power/apc/auto_name/east,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"LF" = (
+/obj/vehicle/sealed/mecha/combat/marauder/seraph,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"LQ" = (
+/obj/structure/closet/secure_closet/ert_engi,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"NC" = (
+/obj/machinery/door/airlock/medical/glass,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"NQ" = (
+/obj/machinery/power/emitter/welded{
+	dir = 8
+	},
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"OU" = (
+/obj/machinery/light/floor,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"Pu" = (
+/obj/structure/closet/secure_closet/atmospherics,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"QA" = (
+/obj/machinery/modular_computer/console/preset/civilian{
+	dir = 1
+	},
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"QL" = (
+/obj/structure/grille,
+/obj/structure/window/plasma/reinforced/plastitanium,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Ri" = (
+/obj/machinery/airalarm/directional/east,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"RM" = (
+/obj/machinery/airalarm/directional/east,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"RO" = (
+/obj/structure/table/reinforced,
+/obj/item/toy/plush/borbplushie,
+/obj/structure/cable,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Sp" = (
+/turf/open/floor/carpet/blue,
+/area/shuttle/aggregeddon)
+"Sr" = (
+/obj/machinery/power/rad_collector/anchored,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"SF" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/carpet/executive,
+/area/shuttle/aggregeddon)
+"SK" = (
+/obj/machinery/shieldgen,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"Tl" = (
+/obj/machinery/door/airlock/engineering/glass,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"TQ" = (
+/obj/structure/railing,
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/carpet/executive,
+/area/shuttle/aggregeddon)
+"Ud" = (
+/obj/machinery/door/airlock/engineering/glass,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/aggregeddon)
+"UM" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+"UN" = (
+/turf/open/floor/plating/planetary/water/chlorine{
+	name = "nuclear waste"
+	},
+/area/shuttle/aggregeddon)
+"UO" = (
+/obj/structure/sign/warning/explosives,
+/turf/closed/wall/mineral/plastitanium,
+/area/shuttle/aggregeddon)
+"VW" = (
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Wf" = (
+/obj/machinery/airalarm/directional/north,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Wh" = (
+/obj/structure/bodycontainer/morgue{
+	dir = 2
+	},
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"Wj" = (
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/aggregeddon)
+"Xn" = (
+/obj/machinery/light/floor,
+/turf/open/floor/circuit/off,
+/area/shuttle/aggregeddon)
+"XM" = (
+/obj/machinery/light/floor,
+/turf/open/floor/carpet/stellar,
+/area/shuttle/aggregeddon)
+"Yt" = (
+/obj/vehicle/sealed/mecha/combat/phazon,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Yw" = (
+/obj/machinery/door/poddoor{
+	id = "gundoors"
+	},
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Yx" = (
+/obj/vehicle/sealed/mecha/working/ripley/deathripley/real,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"Zj" = (
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"Zk" = (
+/obj/machinery/shieldgen,
+/turf/open/floor/mineral/titanium/blue,
+/area/shuttle/aggregeddon)
+"Zm" = (
+/turf/open/floor/circuit/red/anim,
+/area/shuttle/aggregeddon)
+
+(1,1,1) = {"
+dy
+dy
+dy
+dA
+dA
+Ee
+dA
+dA
+Ee
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dA
+vy
+dA
+vy
+dy
+"}
+(2,1,1) = {"
+dy
+xO
+xO
+dA
+dA
+dA
+dA
+dA
+dA
+xO
+xO
+xO
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+xO
+xO
+dA
+dA
+dA
+dA
+xO
+"}
+(3,1,1) = {"
+xO
+rR
+xO
+dA
+dA
+dA
+dA
+dA
+dA
+xO
+cJ
+SK
+xO
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+xO
+Zk
+xO
+dI
+dI
+dI
+dI
+xO
+"}
+(4,1,1) = {"
+xO
+hn
+xO
+dI
+dI
+dI
+dI
+dI
+dI
+xO
+cJ
+cJ
+wU
+QL
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+QL
+wU
+Zj
+Zj
+wU
+wU
+wU
+wU
+xO
+"}
+(5,1,1) = {"
+QL
+hn
+hn
+wU
+wU
+wU
+wU
+wU
+wU
+cJ
+cJ
+cJ
+cJ
+wU
+QL
+dy
+dy
+dy
+dy
+dy
+QL
+wU
+Wh
+Zj
+Zj
+Zj
+Zj
+Zj
+Zk
+QL
+"}
+(6,1,1) = {"
+QL
+hn
+Av
+xO
+xO
+xO
+xO
+xO
+Iz
+cJ
+cJ
+mX
+cJ
+cJ
+wU
+QL
+dy
+dy
+dy
+QL
+wU
+Wh
+Zj
+xR
+Zj
+Sp
+Sp
+Sp
+Lu
+QL
+"}
+(7,1,1) = {"
+QL
+xO
+hn
+hn
+hn
+hn
+hn
+xO
+Iz
+cJ
+cJ
+cJ
+cJ
+cJ
+SK
+wU
+QL
+dy
+QL
+wU
+Wh
+Zj
+Zj
+Zj
+Zj
+Sp
+eu
+Sp
+Lu
+QL
+"}
+(8,1,1) = {"
+xO
+xO
+no
+hn
+Av
+hn
+hn
+xI
+xO
+GC
+GC
+xO
+xO
+xO
+xO
+xO
+wU
+QL
+wU
+xO
+xO
+xO
+xO
+xO
+wI
+Sp
+Sp
+Sp
+Lu
+xO
+"}
+(9,1,1) = {"
+xO
+lG
+VW
+AV
+AV
+AV
+VW
+VW
+pq
+GC
+GC
+dk
+LF
+LF
+LF
+JY
+Yx
+Yx
+Yx
+JY
+Yt
+Yt
+Yt
+dk
+Zj
+Sp
+Sp
+Sp
+Lu
+xO
+"}
+(10,1,1) = {"
+xO
+Dl
+hn
+wU
+wU
+wU
+hn
+hn
+pq
+GC
+GC
+dk
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+dk
+Zj
+Sp
+Sp
+Sp
+Lu
+xO
+"}
+(11,1,1) = {"
+QL
+VW
+wU
+UN
+UN
+UN
+wU
+hn
+pq
+GC
+GC
+dk
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+dk
+Zj
+Sp
+Sp
+Sp
+Lu
+QL
+"}
+(12,1,1) = {"
+QL
+mA
+wU
+UN
+wx
+UN
+wU
+Av
+Tl
+GC
+Xn
+dk
+hn
+Av
+hn
+hn
+hn
+Av
+hn
+hn
+hn
+Av
+hn
+dk
+Zj
+Sp
+Sp
+Sp
+Lu
+QL
+"}
+(13,1,1) = {"
+QL
+VW
+wU
+UN
+UN
+UN
+wU
+hn
+pq
+GC
+GC
+dk
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+dk
+Zj
+Sp
+Sp
+Sp
+Lu
+QL
+"}
+(14,1,1) = {"
+xO
+VW
+hn
+wU
+wU
+wU
+hn
+hn
+pq
+GC
+GC
+dk
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+hn
+dk
+Zj
+Sp
+eu
+Sp
+GY
+xO
+"}
+(15,1,1) = {"
+xO
+NQ
+hn
+Sr
+Sr
+Sr
+hn
+hn
+JP
+GC
+GC
+dk
+hn
+hn
+hn
+hn
+hn
+hn
+LA
+hn
+hn
+hn
+hn
+dk
+Zj
+Sp
+Sp
+Sp
+GY
+xO
+"}
+(16,1,1) = {"
+xO
+vP
+no
+hn
+Av
+hn
+hn
+Ri
+xO
+pG
+GC
+UO
+QL
+QL
+QL
+QL
+QL
+Tl
+gO
+QL
+QL
+QL
+QL
+UO
+Zj
+Zj
+Sp
+Zj
+Zj
+xO
+"}
+(17,1,1) = {"
+QL
+kx
+xO
+xO
+xO
+xO
+xO
+xO
+Wj
+OU
+Wj
+Yw
+Zm
+Zm
+Zm
+Zm
+Zm
+qO
+Zm
+Zm
+Zm
+Zm
+Zm
+Yw
+xO
+xO
+NC
+xO
+xO
+QL
+"}
+(18,1,1) = {"
+QL
+kx
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Yw
+Zm
+qO
+qO
+qO
+Zm
+pw
+Zm
+qO
+qO
+qO
+Zm
+Yw
+oJ
+rB
+oJ
+oJ
+oJ
+QL
+"}
+(19,1,1) = {"
+QL
+kx
+kx
+kx
+kx
+kx
+kx
+kx
+kx
+kx
+kx
+oC
+Ip
+lv
+mi
+mi
+Ip
+mi
+Ip
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+oJ
+oJ
+QL
+"}
+(20,1,1) = {"
+xO
+kB
+Wj
+ds
+Wj
+UM
+ds
+Wj
+UM
+Wj
+Wj
+Yw
+Zm
+mi
+mi
+mi
+Zm
+Co
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+mc
+KL
+xO
+"}
+(21,1,1) = {"
+xO
+kB
+Wj
+ds
+Wj
+UM
+ds
+Wj
+UM
+Wj
+Wj
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+XM
+mc
+QA
+xO
+"}
+(22,1,1) = {"
+xO
+kB
+Wj
+rz
+Wj
+UM
+rz
+Wj
+IQ
+Wj
+Wj
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+mc
+KL
+xO
+"}
+(23,1,1) = {"
+QL
+hl
+Wj
+ds
+Wj
+UM
+ds
+Wj
+UM
+Wj
+Wj
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+Zj
+oJ
+QL
+"}
+(24,1,1) = {"
+QL
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Wj
+Yw
+Zm
+mi
+pg
+mi
+Zm
+Co
+Zm
+mi
+pg
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+Zj
+oJ
+QL
+"}
+(25,1,1) = {"
+QL
+Wj
+Wj
+Wj
+kB
+kB
+kB
+kB
+Wj
+RM
+Wj
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+Zj
+oJ
+QL
+"}
+(26,1,1) = {"
+gO
+xO
+xO
+Ud
+xO
+xO
+xO
+xO
+Ad
+xO
+xO
+xO
+kH
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+XM
+Zj
+mT
+xO
+"}
+(27,1,1) = {"
+gO
+Pu
+cJ
+cJ
+cR
+xO
+iS
+hn
+hn
+hn
+hn
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+mc
+KL
+xO
+"}
+(28,1,1) = {"
+gO
+Pu
+cJ
+cJ
+cR
+xO
+iS
+hn
+hn
+hn
+hn
+Yw
+Zm
+mi
+mi
+mi
+Zm
+Co
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+mc
+gn
+xO
+"}
+(29,1,1) = {"
+QL
+LQ
+cJ
+cJ
+cR
+xO
+Hi
+hn
+Av
+hn
+hn
+Yw
+Zm
+mi
+mi
+mi
+Zm
+qO
+Zm
+mi
+mi
+mi
+Zm
+Yw
+oJ
+oJ
+oJ
+oJ
+oJ
+QL
+"}
+(30,1,1) = {"
+QL
+LQ
+cJ
+mX
+cJ
+xO
+Hi
+hn
+hn
+hn
+hn
+Yw
+Zm
+qO
+qO
+qO
+Zm
+pw
+Zm
+qO
+qO
+qO
+Zm
+Yw
+oJ
+oJ
+oJ
+oJ
+oJ
+QL
+"}
+(31,1,1) = {"
+QL
+fB
+cJ
+cJ
+cJ
+xO
+hn
+hn
+hn
+hn
+hn
+Yw
+Zm
+Zm
+Zm
+Zm
+Zm
+pw
+Zm
+Zm
+Zm
+Zm
+Zm
+Yw
+oJ
+oJ
+XM
+oJ
+oJ
+QL
+"}
+(32,1,1) = {"
+gO
+fB
+cJ
+cJ
+cJ
+xO
+hn
+hn
+hn
+hn
+hn
+xO
+HQ
+hn
+hn
+hn
+hn
+pw
+hn
+hn
+hn
+hn
+HQ
+xO
+vW
+oJ
+oJ
+oJ
+oJ
+gO
+"}
+(33,1,1) = {"
+dy
+gO
+cJ
+cJ
+cJ
+xI
+hn
+hn
+hn
+hn
+gO
+dy
+mD
+HQ
+hn
+hn
+hn
+pw
+hn
+hn
+hn
+HQ
+mD
+xO
+Wf
+oJ
+oJ
+oJ
+oJ
+bl
+"}
+(34,1,1) = {"
+dy
+dy
+eq
+rR
+hn
+hn
+Av
+hn
+rR
+eq
+dy
+dy
+dy
+mD
+HQ
+hn
+hn
+pw
+hn
+hn
+HQ
+mD
+dy
+QL
+dm
+vc
+oJ
+oJ
+oJ
+gO
+"}
+(35,1,1) = {"
+dy
+dy
+dy
+gO
+hn
+hn
+hn
+hn
+gO
+dy
+dy
+dy
+dy
+dy
+mD
+HQ
+hn
+pw
+hn
+HQ
+mD
+dy
+dy
+QL
+zq
+oJ
+oJ
+oJ
+oJ
+gO
+"}
+(36,1,1) = {"
+dy
+dy
+dy
+dy
+eq
+eq
+eq
+eq
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+mD
+HQ
+pw
+HQ
+mD
+dy
+dy
+dy
+QL
+an
+oJ
+oJ
+oJ
+oJ
+gO
+"}
+(37,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+mD
+HQ
+mD
+dy
+dy
+dy
+dy
+gO
+gO
+QL
+JX
+QL
+gO
+gO
+"}
+(38,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+mD
+dy
+dy
+dy
+dy
+dy
+gO
+hn
+hn
+hn
+hn
+xI
+gO
+"}
+(39,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+gO
+Av
+hn
+hn
+hn
+Av
+gO
+"}
+(40,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+gO
+gO
+QL
+JX
+QL
+gO
+gO
+"}
+(41,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+QL
+iL
+oJ
+oJ
+CO
+GO
+QL
+"}
+(42,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+QL
+wt
+SF
+XM
+bB
+sI
+QL
+"}
+(43,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+QL
+RO
+nS
+Ez
+TQ
+oJ
+QL
+"}
+(44,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+gO
+Jg
+uT
+pw
+iT
+lx
+gO
+"}
+(45,1,1) = {"
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+dy
+QL
+QL
+QL
+QL
+QL
+dy
+"}

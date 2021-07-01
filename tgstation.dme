@@ -3477,6 +3477,7 @@
 #include "code\modules\shuttle\exploration.dm"
 #include "code\modules\shuttle\ferry.dm"
 #include "code\modules\shuttle\luxury.dm"
+#include "code\modules\shuttle\supercruiser.dm"
 #include "code\modules\shuttle\manipulator.dm"
 #include "code\modules\shuttle\medisim.dm"
 #include "code\modules\shuttle\monastery.dm"
