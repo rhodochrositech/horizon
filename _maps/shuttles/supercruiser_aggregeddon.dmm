@@ -509,6 +509,14 @@
 /obj/machinery/chem_heater,
 /turf/open/floor/carpet/blue,
 /area/shuttle/aggregeddon)
+"sZ" = (
+/obj/machinery/button/door{
+	id = "mechdoors";
+	name = "Mech Bay Doors";
+	pixel_y = -4
+	},
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/aggregeddon)
 "th" = (
 /obj/machinery/light/cold/no_nightlight/directional/east,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -665,6 +673,14 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/aggregeddon)
+"yq" = (
+/obj/machinery/button/door{
+	id = "mechdoors";
+	name = "Mech Bay Doors";
+	pixel_y = -4
+	},
+/turf/closed/wall/mineral/plastitanium,
+/area/shuttle/aggregeddon)
 "zq" = (
 /obj/machinery/teleport/station,
 /obj/structure/cable,
@@ -820,19 +836,20 @@
 /obj/structure/cable,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
-"GL" = (
-/obj/machinery/light/floor,
-/obj/machinery/door/poddoor/shutters{
-	id = "gundoors"
-	},
-/obj/structure/cable,
-/turf/open/floor/engine,
-/area/shuttle/aggregeddon)
 "GO" = (
 /obj/machinery/airalarm/directional/west,
 /obj/structure/table/reinforced,
-/obj/machinery/keycard_auth,
 /obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/button/door{
+	id = "mechdoors";
+	name = "Mech Bay Doors";
+	pixel_y = -4
+	},
+/obj/machinery/button/door{
+	id = "gundoors";
+	name = "Gun Bay Doors";
+	pixel_y = 8
+	},
 /turf/open/floor/carpet/stellar,
 /area/shuttle/aggregeddon)
 "GY" = (
@@ -1138,6 +1155,14 @@
 "SS" = (
 /obj/structure/grille,
 /obj/structure/window/plasma/reinforced/plastitanium,
+/obj/structure/cable,
+/turf/open/floor/engine,
+/area/shuttle/aggregeddon)
+"SX" = (
+/obj/machinery/light/floor,
+/obj/machinery/door/poddoor/shutters{
+	id = "gundoors"
+	},
 /obj/structure/cable,
 /turf/open/floor/engine,
 /area/shuttle/aggregeddon)
@@ -1842,7 +1867,7 @@ xM
 Ri
 xO
 pG
-xO
+sZ
 UO
 QL
 QL
@@ -1855,7 +1880,7 @@ QL
 QL
 SS
 QL
-UO
+yq
 Us
 YN
 MK
@@ -1919,7 +1944,7 @@ oa
 oa
 nK
 Ip
-GL
+SX
 Gy
 rB
 oJ
@@ -1951,7 +1976,7 @@ gu
 gu
 gu
 Ip
-GL
+SX
 Op
 Op
 oJ
