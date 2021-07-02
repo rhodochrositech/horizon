@@ -7,7 +7,7 @@
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
 "aB" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/west,
 /obj/machinery/power/smes,
 /turf/open/floor/mineral/titanium/tiled/yellow,
@@ -28,6 +28,11 @@
 /area/shuttle/mezzeriah)
 "ca" = (
 /turf/open/floor/mineral/titanium/blue,
+/area/shuttle/mezzeriah)
+"cO" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/secure_closet/atmospherics,
+/turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
 "dH" = (
 /obj/structure/table/reinforced,
@@ -57,6 +62,11 @@
 /obj/machinery/teleport/station,
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
+"hP" = (
+/obj/structure/sign/warning/chemdiamond,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/mezzeriah)
 "kf" = (
 /obj/structure/table/reinforced,
 /obj/machinery/keycard_auth{
@@ -81,7 +91,7 @@
 /obj/item/gun/energy/pulse/carbine,
 /obj/item/storage/belt/security/webbing,
 /obj/item/grenade/c4,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "kY" = (
@@ -96,12 +106,12 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "lv" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine,
 /area/shuttle/mezzeriah)
 "lJ" = (
 /obj/machinery/suit_storage_unit/ert/command,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
 "mj" = (
@@ -128,8 +138,13 @@
 "oa" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/command/glass,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine,
+/area/shuttle/mezzeriah)
+"oZ" = (
+/obj/structure/sign/warning/armory,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
 /area/shuttle/mezzeriah)
 "po" = (
 /obj/machinery/light/warm/directional/north,
@@ -143,14 +158,14 @@
 /obj/machinery/mining_laser{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit/red/anim,
 /area/shuttle/mezzeriah)
 "pU" = (
 /turf/open/floor/iron/freezer,
 /area/shuttle/mezzeriah)
 "pV" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/secure_closet/security,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/mineral/plastitanium/red,
@@ -159,7 +174,7 @@
 /obj/machinery/mining_laser{
 	dir = 5
 	},
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit/red/anim{
 	dir = 8
 	},
@@ -167,8 +182,13 @@
 "rd" = (
 /obj/machinery/door/airlock/security/glass,
 /obj/structure/fans/tiny,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine,
+/area/shuttle/mezzeriah)
+"rl" = (
+/obj/structure/sign/warning/vacuum,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
 /area/shuttle/mezzeriah)
 "rs" = (
 /obj/machinery/light/warm/no_nightlight/directional/east,
@@ -191,7 +211,7 @@
 /area/shuttle/mezzeriah)
 "tj" = (
 /obj/machinery/suit_storage_unit/ert/medical,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
@@ -212,7 +232,7 @@
 /turf/open/floor/carpet/executive,
 /area/shuttle/mezzeriah)
 "uv" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/chair/sofa/corp{
 	dir = 1
 	},
@@ -223,6 +243,11 @@
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
+"vB" = (
+/obj/structure/sign/warning/nosmoking,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/mezzeriah)
 "wu" = (
 /obj/machinery/shieldgen,
 /obj/machinery/light/warm/directional/north,
@@ -232,6 +257,11 @@
 /obj/machinery/bsa/middle,
 /turf/open/floor/iron/freezer,
 /area/shuttle/mezzeriah)
+"wJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/secure_closet/engineering_personal,
+/turf/open/floor/mineral/titanium/tiled/yellow,
+/area/shuttle/mezzeriah)
 "wU" = (
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
@@ -239,7 +269,7 @@
 /obj/machinery/mining_laser{
 	dir = 6
 	},
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit/red/anim,
 /area/shuttle/mezzeriah)
 "xi" = (
@@ -247,11 +277,11 @@
 	dir = 1
 	},
 /obj/structure/railing,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit/red/off,
 /area/shuttle/mezzeriah)
 "yW" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/no_nightlight/directional/east,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
@@ -267,15 +297,15 @@
 "zM" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/security/glass,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine,
 /area/shuttle/mezzeriah)
 "zP" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "Av" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/engine,
 /area/shuttle/mezzeriah)
@@ -288,7 +318,7 @@
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
 "Ch" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
@@ -301,22 +331,22 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "Dw" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "DV" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/grimy,
 /area/shuttle/mezzeriah)
 "Ek" = (
 /obj/machinery/door/airlock/command/glass,
 /obj/structure/fans/tiny,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/engine,
 /area/shuttle/mezzeriah)
 "Et" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/radiation,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
@@ -325,7 +355,7 @@
 	dir = 4
 	},
 /obj/structure/railing,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/circuit/red/off,
 /area/shuttle/mezzeriah)
 "ES" = (
@@ -338,7 +368,7 @@
 "GR" = (
 /obj/structure/fans/tiny,
 /obj/machinery/door/airlock/command/glass,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/docking_port/mobile{
 	dir = 4;
 	dwidth = 13;
@@ -370,12 +400,12 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/mezzeriah)
 "IQ" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
 "IS" = (
 /obj/machinery/suit_storage_unit/ert/security,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
 "JC" = (
@@ -389,12 +419,17 @@
 /obj/machinery/power/smes,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
+"KI" = (
+/obj/structure/sign/warning/radiation,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/mezzeriah)
 "KX" = (
 /obj/machinery/chem_master,
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/mezzeriah)
 "LE" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
@@ -408,7 +443,7 @@
 /turf/open/indestructible/hierophant,
 /area/shuttle/mezzeriah)
 "Ox" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/closet/secure_closet/ert_sec,
 /turf/open/floor/mineral/plastitanium/red,
 /area/shuttle/mezzeriah)
@@ -419,7 +454,7 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/mezzeriah)
 "Pc" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/west,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
@@ -440,7 +475,7 @@
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
 "QO" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /turf/closed/wall/mineral/titanium,
 /area/shuttle/mezzeriah)
 "QX" = (
@@ -449,7 +484,7 @@
 /turf/open/floor/carpet/executive,
 /area/shuttle/mezzeriah)
 "RC" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/structure/tank_dispenser,
 /turf/open/floor/iron/grimy,
 /area/shuttle/mezzeriah)
@@ -464,6 +499,16 @@
 /obj/item/hand_tele,
 /obj/item/hand_tele,
 /obj/machinery/light/warm/directional/north,
+/obj/item/clothing/head/helmet/space/chronos/hrvfoxcat,
+/obj/item/clothing/head/helmet/space/chronos/hrvfoxcat,
+/obj/item/clothing/suit/space/chronos/hrvfoxcat,
+/obj/item/clothing/suit/space/chronos/hrvfoxcat,
+/obj/item/gps,
+/obj/item/gps,
+/obj/item/gps,
+/obj/item/gps,
+/obj/item/gps,
+/obj/item/gps,
 /turf/open/floor/carpet/stellar,
 /area/shuttle/mezzeriah)
 "Sp" = (
@@ -484,6 +529,11 @@
 "To" = (
 /turf/closed/wall/mineral/titanium,
 /area/shuttle/mezzeriah)
+"Tv" = (
+/obj/structure/sign/warning/turrets,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
+/area/shuttle/mezzeriah)
 "Ut" = (
 /obj/machinery/bsa/front,
 /turf/open/floor/iron/freezer,
@@ -494,7 +544,7 @@
 /area/shuttle/mezzeriah)
 "UX" = (
 /obj/machinery/shieldgen,
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/south,
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
@@ -511,12 +561,12 @@
 /turf/open/floor/circuit,
 /area/shuttle/mezzeriah)
 "Wv" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/no_nightlight/directional/east,
 /turf/open/floor/iron/grimy,
 /area/shuttle/mezzeriah)
 "WB" = (
-/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/warm/directional/north,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/shuttle/mezzeriah)
@@ -525,6 +575,11 @@
 /area/shuttle/mezzeriah)
 "Yz" = (
 /turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/mezzeriah)
+"Zd" = (
+/obj/structure/sign/warning/explosives/alt,
+/turf/open/space/basic,
+/turf/closed/wall/mineral/titanium,
 /area/shuttle/mezzeriah)
 "Zj" = (
 /turf/open/space/basic,
@@ -1100,10 +1155,10 @@ Pc
 Zj
 Zv
 pw
-Zj
+vB
 oa
 GR
-Zj
+vB
 pw
 Zv
 Zj
@@ -1188,7 +1243,7 @@ Zv
 Zv
 Zv
 Zv
-Zj
+KI
 rs
 RM
 IQ
@@ -1196,10 +1251,10 @@ IQ
 IQ
 RM
 Dv
-Zj
+rl
 oa
 oa
-Zj
+rl
 Dv
 RM
 IQ
@@ -1207,7 +1262,7 @@ IQ
 IQ
 RM
 rs
-Zj
+KI
 Zv
 Zv
 Zv
@@ -1222,8 +1277,8 @@ Zv
 Zv
 Zv
 Zj
-Zj
-IQ
+Tv
+wJ
 IQ
 Ch
 RM
@@ -1236,8 +1291,8 @@ Ck
 RM
 WB
 IQ
-IQ
-Zj
+wJ
+Tv
 Zj
 Zv
 Zv
@@ -1255,7 +1310,7 @@ Zv
 Zv
 Zv
 Zj
-IQ
+cO
 IQ
 IQ
 zM
@@ -1268,7 +1323,7 @@ Yz
 zM
 IQ
 IQ
-IQ
+cO
 Zj
 Zv
 Zv
@@ -1354,14 +1409,14 @@ Zv
 Zv
 Zv
 RM
-Zj
+Zd
 kH
 Yz
 Yz
 Yz
 zP
 IS
-Zj
+oZ
 RM
 Zv
 Zv
@@ -1386,7 +1441,7 @@ Zv
 Zv
 Zv
 ra
-Zj
+Zd
 kH
 rs
 Yz
@@ -1553,7 +1608,7 @@ HF
 dJ
 ca
 rx
-Zj
+hP
 Zv
 Zv
 Zv
