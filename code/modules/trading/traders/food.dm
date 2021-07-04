@@ -64,7 +64,7 @@
 
 /datum/trader/farmer
 	name = "Farming Apprentice"
-	possible_origins = list("Uncle Ben's", "Manure Mounds", "Farmzilla", "Pepperidge Farms", "Johnson's Grand Animal Emporium", "Feral Farms", "Little Taste o' Neo-Italy")
+	possible_origins = list("Uncle Ben's", "Manure Mounds", "Farmzilla", "Pepperidge Farms", "Johnson's Grand Animal Emporium", "Feral Farms")
 	trade_flags = TRADER_MONEY|TRADER_SELLS_GOODS
 	speech = list(
 		"hail" = "Hello! Welcome to ORIGIN, may I take your order?",
