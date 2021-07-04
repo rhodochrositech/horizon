@@ -80,11 +80,13 @@
 		"insult_good" = "Knock eet the fuck off! *Racks shotgun*.",
 		"insult_bad" = "Y'all really wanna start all this? I'll get my employers on the line and run ya outta fucking town!",
 	)
-	possible_sold_goods = list(/datum/sold_goods/cow = 100,
-								/datum/sold_goods/goat = 100,
-								/datum/sold_goods/chicken = 100,
-								/datum/sold_goods/wheat = 100,
-								/datum/sold_goods/corn = 100,
-								/datum/sold_goods/pumpkin = 100)
+	possible_sold_goods = list(
+		/datum/sold_goods/cow = 100,
+		/datum/sold_goods/goat = 100,
+		/datum/sold_goods/chicken = 100,
+		/datum/sold_goods/wheat = 100,
+		/datum/sold_goods/corn = 100,
+		/datum/sold_goods/pumpkin = 100,
+	)
 	//possible_bought_goods = list(/datum/bought_goods/food)
 	target_sold_goods_amount = 6
