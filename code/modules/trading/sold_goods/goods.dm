@@ -390,7 +390,7 @@
 	path = /obj/item/anomalous_sliver/crystal
 
 /datum/sold_goods/mining_kit
-	cost = 1300
+	cost = 850
 	path = /obj/item/storage/backpack/duffelbag/mining_conscript/basic
 
 /datum/sold_goods/grey_bull
