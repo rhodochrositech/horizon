@@ -309,6 +309,6 @@
 	possible_sold_goods = list(
 		/datum/sold_goods/belt/nitrogen = 100,
 		/datum/sold_goods/belt/plasma = 100,
-		/datum/sold_goods/emergency_oxygen = 100
-		)
+		/datum/sold_goods/emergency_oxygen = 100,
+	)
 	target_bought_goods_amount = 3
