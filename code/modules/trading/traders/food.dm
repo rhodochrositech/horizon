@@ -88,5 +88,4 @@
 		/datum/sold_goods/corn = 100,
 		/datum/sold_goods/pumpkin = 100,
 	)
-	//possible_bought_goods = list(/datum/bought_goods/food)
 	target_sold_goods_amount = 6
