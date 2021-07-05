@@ -269,7 +269,7 @@
 								/datum/sold_goods/stack/diamond_five = 100,
 								/datum/sold_goods/mining_kit = 100,
 								/datum/sold_goods/liquid_pump = 100)
-	target_sold_goods_amount = 5
+	target_sold_goods_amount = 7
 	target_bought_goods_amount = 5
 
 /datum/trader/petshop
