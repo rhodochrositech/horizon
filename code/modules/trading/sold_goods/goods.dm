@@ -401,8 +401,8 @@
 	cost = 50
 	path = /obj/item/reagent_containers/food/drinks/soda_cans/grey_bull
 
-/datum/sold_goods/binsuls
-	cost = 550
+/datum/sold_goods/budget_insuls
+	cost = 355
 	path = /obj/item/clothing/gloves/color/fyellow
 
 /datum/sold_goods/belt/nitrogen
