@@ -89,8 +89,3 @@
 	name = "anomalous crystals"
 	cost = 1000
 	trading_types = list(/obj/item/anomalous_sliver/crystal = TRADER_THIS_TYPE)
-
-/datum/bought_goods/food
-	name = "foods"
-	cost = 15
-	trading_types = list(/obj/item/food/grown = TRADER_SUBTYPES)
