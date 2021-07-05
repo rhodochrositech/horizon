@@ -86,7 +86,7 @@
 								/datum/sold_goods/clothing_boots/two = 100,
 								/datum/sold_goods/clothing_boots/three = 100,
 								/datum/sold_goods/clothing_boots/four = 100,
-								/datum/sold_goods/binsuls = 100)
+								/datum/sold_goods/budget_insuls = 100)
 	target_sold_goods_amount = 4
 
 /datum/trader/clothingshop/hatglovesaccessories
